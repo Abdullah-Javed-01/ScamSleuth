@@ -515,7 +515,7 @@ What you will do
 
 What we look for
 - Relevant study, work examples, or transferable experience.
-- Reliable availability and clear written communication.",Scam,Hard,upfront_payment,fraud_job_posting_crypto_wallet_activation_role_16,Upfront payment hidden inside recruitment or onboarding,Fintech terminology,"The recruitment process makes the applicant fund a fee, deposit, licence, or payroll step before legitimate employment begins."
+- Reliable availability and clear written communication.",Scam,Medium,upfront_payment,fraud_job_posting_crypto_wallet_activation_role_16,Upfront payment hidden inside recruitment or onboarding,Fintech terminology,"The recruitment process makes the applicant fund a fee, deposit, licence, or payroll step before legitimate employment begins."
 SS0027,email,"Re: UI/UX Designer opportunity in Kuala Lumpur
 
 Hi Zain,
@@ -737,33 +737,11 @@ SS0041,email,"Candidate update | Orchid Support Services
 
 Ali,
 
-Thank you for your interest in the Recruitment Coordinator opportunity associated with Orchid Support Services. The position is described as remote and based around Lahore. The board has appointed you without an interview or application. Sign the attached generic letter and return only the signature page.
+The board has approved your appointment as Recruitment Coordinator with Orchid Support Services for a remote position connected to Lahore. No interview or further application stage is required.
 
-The current compensation indication is PKR 90,000–120,000 per month. Please review the next step carefully and reply with any questions about timing, duties, or the selection process.
+The proposed compensation is PKR 90,000–120,000 per month. Please sign the attached appointment letter and return only the signature page so HR can activate your employee record.
 
-The hiring contact expects to complete this stage near 20 August. Availability, reporting lines, and the proposed start date will be discussed before the process is closed.
-
-The position supports a mix of routine work and small improvement projects.
-
-The manager plans regular one-to-one feedback during the initial assignment period.
-
-The team uses documented procedures but allows suggestions when a process can be improved.
-
-Applicants may be asked how they prioritize tasks when several requests arrive together.
-
-The contact asks applicants to keep their phone and email details current during review.
-
-The team aims to finish the current hiring round by 20 August.
-
-Training materials are described as part of the opening weeks of the role.
-
-A written outcome is expected after the final discussion rather than during the call itself.
-
-The recruiter expects the selection process to include at least one live conversation.
-
-Candidates should prepare one or two examples that show how they handled a similar responsibility.
-
-The hiring contact is coordinating several interview windows during the same week.
+Once the signed page is received, the onboarding team will send your reporting details, start date, and orientation instructions. Training materials will be provided during the opening week.
 
 Kind regards,
 Imran Baig
@@ -812,7 +790,7 @@ The recruitment contact says status updates will be shared when each stage is co
 
 Best,
 Lucas Meyer
-Riverstone Media",Scam,Hard,credential_theft,fraud_email_tax_portal_mailbox_access_19,"Password, OTP, banking credential, or account-access request",Tax-compliance framing,"The communication asks for passwords, OTPs, banking credentials, or direct account access that legitimate recruiters do not need."
+Riverstone Media",Scam,Easy,credential_theft,fraud_email_tax_portal_mailbox_access_19,"Password, OTP, banking credential, or account-access request",Tax-compliance framing,"The communication asks for passwords, OTPs, banking credentials, or direct account access that legitimate recruiters do not need."
 SS0044,message,"Hello Ahmed — this is Priya Menon with Riverstone Media. We are discussing the Client Success Executive opening, a remote position connected to Berlin. Walk-in interviews run on 20 August from 10 AM to 2 PM at our Berlin office. Bring a CV and photo ID for reception only. Let me know whether this timing works for you. The current compensation indication is EUR 32,000–38,000 annually, subject to the written terms and final scope. Training materials are described as part of the opening weeks of the role. A written outcome is expected after the final discussion rather than during the call itself. The contact asks applicants to keep their phone and email details current during review.",Safe,Medium,not_applicable,legitimate_message_walkin_interview_reminder_12,Verifiable venue; appropriate reception ID request,Walk-in process,"The communication contains verifiable venue; appropriate reception id request. Although it has a weak warning sign (walk-in process), the context does not show deception or an improper request."
 SS0045,message,"Assalam-o-Alaikum Noor. Sara Iqbal here from Atlas Civic Partners. We are discussing the Procurement Coordinator opening, a mostly remote position connected to Dublin. Our interviewer is unwell, so today's call is moved to 24 August at 11:00 AM PKT. The meeting room remains https://careers.atlas-civic-partners.example/procurement-coordinator/3. You can ask any practical questions before proceeding. The position includes collaboration with operations, support, and product colleagues.",Safe,Medium,not_applicable,legitimate_message_last_minute_interview_reschedule_08,Transparent schedule change; same official meeting channel,Urgent scheduling; schedule change,"The communication contains transparent schedule change; same official meeting channel. Although it has a weak warning sign (urgent scheduling; schedule change), the context does not show deception or an improper request."
 SS0046,email,"Subject: Next step for your Product Support Intern application
@@ -1341,7 +1319,7 @@ The organization is filling the position because its current workload has increa
 
 The role description mentions both independent work and review by a more experienced colleague.
 
-Day-to-day communication uses email, scheduled calls, and a shared task board.",Scam,Hard,upfront_payment,fraud_job_posting_mandatory_remote_security_suite_19,Upfront payment hidden inside recruitment or onboarding,Security requirement,"The recruitment process makes the applicant fund a fee, deposit, licence, or payroll step before legitimate employment begins."
+Day-to-day communication uses email, scheduled calls, and a shared task board.",Scam,Medium,upfront_payment,fraud_job_posting_mandatory_remote_security_suite_19,Upfront payment hidden inside recruitment or onboarding,Security requirement,"The recruitment process makes the applicant fund a fee, deposit, licence, or payroll step before legitimate employment begins."
 SS0071,email,"Subject: CoralGrid Networks hiring process and availability
 
 Good day Fatima,
@@ -1357,7 +1335,7 @@ Questions about leave, probation, and working hours can be raised during the int
 The advertised start window is within two to four weeks after the selection process.
 
 Sincerely,
-Bilal Ahmed",Scam,Hard,credential_theft,fraud_email_tax_portal_mailbox_access_19,"Password, OTP, banking credential, or account-access request",Tax-compliance framing,"The communication asks for passwords, OTPs, banking credentials, or direct account access that legitimate recruiters do not need."
+Bilal Ahmed",Scam,Easy,credential_theft,fraud_email_tax_portal_mailbox_access_19,"Password, OTP, banking credential, or account-access request",Tax-compliance framing,"The communication asks for passwords, OTPs, banking credentials, or direct account access that legitimate recruiters do not need."
 SS0072,email,"Subject: Next step for your UI/UX Designer application
 
 Hello Zain,
@@ -1998,7 +1976,7 @@ Additional context
 - The recruiter says the team values practical examples more than a long list of certificates.
 - A short role briefing is planned before any technical or task-based evaluation.
 - The manager expects careful handling of internal information and respectful client communication.
-- Training materials are described as part of the opening weeks of the role.",Scam,Hard,credential_theft,fraud_job_posting_payroll_bank_connection_role_15,"Password, OTP, banking credential, or account-access request",Professional payroll language,"The communication asks for passwords, OTPs, banking credentials, or direct account access that legitimate recruiters do not need."
+- Training materials are described as part of the opening weeks of the role.",Scam,Easy,credential_theft,fraud_job_posting_payroll_bank_connection_role_15,"Password, OTP, banking credential, or account-access request",Professional payroll language,"The communication asks for passwords, OTPs, banking credentials, or direct account access that legitimate recruiters do not need."
 SS0119,job_posting,"HR Operations Intern | Praxis Mobility
 
 Praxis Mobility is adding a HR Operations Intern to support a growing workload in Multan. Application processing costs AED 180. Transfer it before submitting your CV for the shortlist.
@@ -2124,7 +2102,7 @@ Additional context
 - A reliable internet connection is relevant whenever work or interviews take place remotely.
 - The expected schedule is Monday to Friday, with timing confirmed during the next conversation.
 - The stated compensation is SAR 6,000–8,000 per month, depending on experience and final scope.
-- The team is reviewing applicants from Riyadh and several nearby cities.",Scam,Hard,identity_document_misuse,fraud_job_posting_complete_identity_profile_before_contact_17,Excessive identity-document collection at an inappropriate stage,Automated screening description,"It requests a disproportionate identity package before an appropriate hiring or onboarding stage, creating a clear misuse risk."
+- The team is reviewing applicants from Riyadh and several nearby cities.",Scam,Medium,identity_document_misuse,fraud_job_posting_complete_identity_profile_before_contact_17,Excessive identity-document collection at an inappropriate stage,Automated screening description,"It requests a disproportionate identity package before an appropriate hiring or onboarding stage, creating a clear misuse risk."
 SS0127,message,"Ali, quick recruitment update from Orchid Support Services: We are discussing the Recruitment Coordinator opening, an onsite position connected to London. The university careers office referred your profile, and you are shortlisted for an interview on 27 August. Please confirm whether you would like to continue. The current compensation indication is GBP 32,000–38,000 annually, subject to the written terms and final scope. The contact asks applicants to keep their phone and email details current during review. The team aims to finish the current hiring round by 27 August. Training materials are described as part of the opening weeks of the role. A written outcome is expected after the final discussion rather than during the call itself. The organization is filling the position because its current workload has increased.",Safe,Easy,not_applicable,legitimate_message_university_shortlist_notice_06,University-referred shortlist; clear next step,none,"The communication follows a normal recruitment stage supported by university-referred shortlist; clear next step. It does not seek payment, credentials, or inappropriate account access."
 SS0128,message,"Maryam, quick recruitment update from Juniper Learning: Your signed offer is on file. Bring one CNIC copy on your first day for the employee record; do not send it in this chat.",Safe,Hard,not_applicable,legitimate_message_post_offer_cnic_onboarding_19,Document requested at appropriate onboarding stage,Identity document request,"The communication contains document requested at appropriate onboarding stage. Although it has a weak warning sign (identity document request), the context does not show deception or an improper request."
 SS0129,email,"Zain,
@@ -2206,7 +2184,7 @@ The team expects reliable attendance and early notice when a scheduled call must
 
 Kind regards,
 Elena Rossi
-Recruitment",Scam,Hard,credential_theft,fraud_email_tax_portal_mailbox_access_19,"Password, OTP, banking credential, or account-access request",Tax-compliance framing,"The communication asks for passwords, OTPs, banking credentials, or direct account access that legitimate recruiters do not need."
+Recruitment",Scam,Easy,credential_theft,fraud_email_tax_portal_mailbox_access_19,"Password, OTP, banking credential, or account-access request",Tax-compliance framing,"The communication asks for passwords, OTPs, banking credentials, or direct account access that legitimate recruiters do not need."
 SS0134,message,"Hassan, quick recruitment update from PixelMint Agency: We are discussing the Customer Support Associate opening, an onsite position connected to Lahore. Hi Hassan, my cousin shared your CV. We run a small family business in Lahore; can you visit tomorrow to discuss the assistant role? Please confirm whether you would like to continue. The current compensation indication is PKR 90,000–120,000 per month, subject to the written terms and final scope. Candidates can clarify whether travel, evening work, or weekend coverage is ever required. Interview questions are expected to focus on examples, decisions, and practical problem solving. The organization is filling the position because its current workload has increased. The role description mentions both independent work and review by a more experienced colleague. Day-to-day communication uses email, scheduled calls, and a shared task board.",Safe,Hard,not_applicable,legitimate_message_family_business_informal_hiring_15,Referral context; in-person discussion before hiring,Informal wording; family business,"The communication contains referral context; in-person discussion before hiring. Although it has a weak warning sign (informal wording; family business), the context does not show deception or an improper request."
 SS0135,email,"Subject: Stonepath Manufacturing hiring process and availability
 
@@ -2578,7 +2556,7 @@ The expected schedule is a rotating five-day week, with timing confirmed during 
 A recruiter can explain the work arrangement and answer role-specific questions before any decision.
 
 Sincerely,
-Grace Wilson",Scam,Hard,credential_theft,fraud_email_direct_bank_access_for_salary_15,"Password, OTP, banking credential, or account-access request",Secure-verification framing,"The communication asks for passwords, OTPs, banking credentials, or direct account access that legitimate recruiters do not need."
+Grace Wilson",Scam,Easy,credential_theft,fraud_email_direct_bank_access_for_salary_15,"Password, OTP, banking credential, or account-access request",Secure-verification framing,"The communication asks for passwords, OTPs, banking credentials, or direct account access that legitimate recruiters do not need."
 SS0152,message,"Assalam-o-Alaikum Fatima. Bilal Ahmed here from LumenField Research. We are discussing the Sales Development Representative opening, a flexible hybrid position connected to Peshawar. Hi Fatima, my cousin shared your CV. We run a small family business in Peshawar; can you visit tomorrow to discuss the assistant role? You can ask any practical questions before proceeding. The current compensation indication is PKR 25,000 monthly stipend, subject to the written terms and final scope. Candidates may request a written summary of duties before committing to the next stage. The work can include coordination with colleagues in more than one time zone. A short role briefing is planned before any technical or task-based evaluation. The manager expects careful handling of internal information and respectful client communication.",Safe,Hard,not_applicable,legitimate_message_family_business_informal_hiring_15,Referral context; in-person discussion before hiring,Informal wording; family business,"The communication contains referral context; in-person discussion before hiring. Although it has a weak warning sign (informal wording; family business), the context does not show deception or an improper request."
 SS0153,email,"Re: Content Writer opportunity in Toronto
 
@@ -2893,7 +2871,7 @@ Additional context
 - Questions about leave, probation, and working hours can be raised during the interview.
 - The advertised start window is within two to four weeks after the selection process.",Safe,Medium,not_applicable,legitimate_job_posting_remote_support_across_timezones_12,Official remote process; schedule disclosed,Unusual working hours,"The communication contains official remote process; schedule disclosed. Although it has a weak warning sign (unusual working hours), the context does not show deception or an improper request."
 SS0171,message,"Hi Zain, Sophie Martin from Redwood Operations. We will email a cheque for more than the laptop cost; deposit it, buy the equipment, and return the unused balance.",Scam,Medium,cheque_overpayment,fraud_message_cheque_for_home_office_07,Cheque overpayment followed by purchase or return-transfer instructions,Remote-work equipment context,"The applicant is asked to deposit an oversized cheque and spend or return part of it, a classic recruitment overpayment mechanism."
-SS0172,message,"Hi Abdullah, Hina Aslam from Saffron Commerce. We are discussing the QA Engineer opening, an office-based position connected to Islamabad. Prepare a complete campaign for our named client as the final evaluation; the material will be delivered immediately and no interview follows. Reply here if you want the next-step details.",Scam,Hard,other_recruitment_fraud,fraud_message_client_ready_unpaid_assignment_20,Improper benefit extracted through a deceptive recruitment task,Detailed assessment brief,"The recruitment framing is used to obtain gift-card value, reshipping help, production work, or another improper benefit."
+SS0172,message,"Hi Abdullah, Hina Aslam from Saffron Commerce. We are discussing the QA Engineer opening, an office-based position connected to Islamabad. Prepare a complete campaign for our named client as the final evaluation; the material will be delivered immediately and no interview follows. Reply here if you want the next-step details.",Scam,Hard,other_recruitment_fraud,fraud_message_client_ready_unpaid_assignment_20,Improper benefit extracted through a deceptive recruitment task,Detailed assessment brief,"The recruitment assessment requires a complete client-ready campaign that will be delivered immediately, allowing the supposed employer to obtain usable production work without a genuine hiring process."
 SS0173,job_posting,"Now hiring: Business Intelligence Analyst
 
 Location: Manchester
@@ -2985,7 +2963,7 @@ What you will do
 What we look for
 - Relevant study, work examples, or transferable experience.
 - Reliable availability and clear written communication.
-- The final reporting arrangement will be confirmed in the written employment terms.",Scam,Hard,upfront_payment,fraud_job_posting_mandatory_remote_security_suite_19,Upfront payment hidden inside recruitment or onboarding,Security requirement,"The recruitment process makes the applicant fund a fee, deposit, licence, or payroll step before legitimate employment begins."
+- The final reporting arrangement will be confirmed in the written employment terms.",Scam,Medium,upfront_payment,fraud_job_posting_mandatory_remote_security_suite_19,Upfront payment hidden inside recruitment or onboarding,Security requirement,"The recruitment process makes the applicant fund a fee, deposit, licence, or payroll step before legitimate employment begins."
 SS0177,email,"Subject: Customer Support Associate — recruitment update
 
 Dear Hassan,
@@ -3401,7 +3379,7 @@ The employer describes a structured handover from an existing team member.
 Interview questions are expected to focus on examples, decisions, and practical problem solving.
 
 Thank you,
-Zainab Ali",Scam,Hard,money_mule,fraud_email_invoice_collection_assistant_20,Use of the applicant's personal account to receive and forward money,Administrative role description,The supposed job requires personal accounts to receive and forward third-party funds rather than using company-controlled banking.
+Zainab Ali",Scam,Easy,money_mule,fraud_email_invoice_collection_assistant_20,Use of the applicant's personal account to receive and forward money,Administrative role description,The supposed job requires personal accounts to receive and forward third-party funds rather than using company-controlled banking.
 SS0205,message,"Hi Ahmed, Lucas Meyer from UrbanNest Services. We are discussing the Field Project Officer opening, a remote position connected to Chicago. The overseas employer has reserved a visa slot. Send EUR 60 to its local agent before the contract is shown. Reply here if you want the next-step details. The current compensation indication is USD 900–1,200 per month, subject to the written terms and final scope. Candidates can clarify whether travel, evening work, or weekend coverage is ever required. Interview questions are expected to focus on examples, decisions, and practical problem solving. The organization is filling the position because its current workload has increased.",Scam,Medium,visa_or_processing_fee,fraud_message_visa_slot_agent_deposit_12,Visa or processing payment requested before a valid contract,International opportunity,The applicant must send visa or processing money before seeing a valid employment contract or employer-controlled process.
 SS0206,job_posting,"Career opportunity in London: Recruitment Coordinator
 
@@ -4019,7 +3997,7 @@ Some assignments may require coordination across departments before work is fina
 The employer describes a structured handover from an existing team member.
 
 Sincerely,
-Farhan Qureshi",Scam,Hard,upfront_payment,fraud_email_employee_license_reimbursement_17,Upfront payment hidden inside recruitment or onboarding,Standard expense-policy tone,"The recruitment process makes the applicant fund a fee, deposit, licence, or payroll step before legitimate employment begins."
+Farhan Qureshi",Scam,Medium,upfront_payment,fraud_email_employee_license_reimbursement_17,Upfront payment hidden inside recruitment or onboarding,Standard expense-policy tone,"The recruitment process makes the applicant fund a fee, deposit, licence, or payroll step before legitimate employment begins."
 SS0251,message,"Hello Maha — this is Priya Menon with HarborDesk Solutions. We will email a cheque for more than the laptop cost; deposit it, buy the equipment, and return the unused balance.",Scam,Medium,cheque_overpayment,fraud_message_cheque_for_home_office_07,Cheque overpayment followed by purchase or return-transfer instructions,Remote-work equipment context,"The applicant is asked to deposit an oversized cheque and spend or return part of it, a classic recruitment overpayment mechanism."
 SS0252,job_posting,"Graduate Software Engineer
 remote · Islamabad
@@ -4087,7 +4065,7 @@ A reliable internet connection is relevant whenever work or interviews take plac
 
 Kind regards,
 Hina Aslam
-Recruitment",Scam,Hard,credential_theft,fraud_email_direct_bank_access_for_salary_15,"Password, OTP, banking credential, or account-access request",Secure-verification framing,"The communication asks for passwords, OTPs, banking credentials, or direct account access that legitimate recruiters do not need."
+Recruitment",Scam,Easy,credential_theft,fraud_email_direct_bank_access_for_salary_15,"Password, OTP, banking credential, or account-access request",Secure-verification framing,"The communication asks for passwords, OTPs, banking credentials, or direct account access that legitimate recruiters do not need."
 SS0254,email,"Maha,
 
 Upload passport pages, tax records, a live video, and household utility documents at https://screening-records.example/candidate/16-4 before the employer is disclosed.
@@ -4544,7 +4522,7 @@ Candidates can clarify whether travel, evening work, or weekend coverage is ever
 The role description mentions both independent work and review by a more experienced colleague.
 
 Thank you,
-Sophie Martin",Scam,Hard,credential_theft,fraud_email_tax_portal_mailbox_access_19,"Password, OTP, banking credential, or account-access request",Tax-compliance framing,"The communication asks for passwords, OTPs, banking credentials, or direct account access that legitimate recruiters do not need."
+Sophie Martin",Scam,Easy,credential_theft,fraud_email_tax_portal_mailbox_access_19,"Password, OTP, banking credential, or account-access request",Tax-compliance framing,"The communication asks for passwords, OTPs, banking credentials, or direct account access that legitimate recruiters do not need."
 SS0285,message,"Hello Sara — this is Sophie Martin with Meadowline Clinics. After you sign the conditional offer, HR will compare your degree copy and CNIC at the office; cover unrelated ID numbers on photocopies.",Safe,Hard,not_applicable,legitimate_message_conditional_offer_document_check_16,Post-offer document check; data-minimization guidance,CNIC requested after conditional offer,"The communication contains post-offer document check; data-minimization guidance. Although it has a weak warning sign (cnic requested after conditional offer), the context does not show deception or an improper request."
 SS0286,message,"Good afternoon. I’m Elena Rossi, contacting you for Saffron Commerce. We are discussing the QA Engineer opening, a remote position connected to Riyadh. Please complete the role-related assessment at https://careers.saffron-commerce.example/qa-engineer/5 before 13 August; it takes about 35 minutes and does not ask for account passwords. A short reply is enough for us to update the file. The current compensation indication is SAR 6,000–8,000 per month, subject to the written terms and final scope. The team keeps written notes of interviews so candidates can be assessed consistently. Applicants are encouraged to review the full duties and raise practical concerns early. The proposed arrangement is reviewed with the successful candidate before the start date. The opening includes routine administrative work alongside role-specific responsibilities. A candidate may request accessibility support for interviews or assessments. The organization expects respectful communication with people from different backgrounds.",Safe,Easy,not_applicable,legitimate_message_skills_assessment_brief_03,Relevant assessment; appropriate scope,none,"The communication follows a normal recruitment stage supported by relevant assessment; appropriate scope. It does not seek payment, credentials, or inappropriate account access."
 SS0287,email,"Subject: Next step for your UI/UX Designer application
@@ -4563,7 +4541,7 @@ Typical work includes documentation, coordination, and follow-up with internal s
 
 Best,
 Nadia Hussain
-KiteWorks Digital",Scam,Hard,upfront_payment,fraud_email_employee_license_reimbursement_17,Upfront payment hidden inside recruitment or onboarding,Standard expense-policy tone,"The recruitment process makes the applicant fund a fee, deposit, licence, or payroll step before legitimate employment begins."
+KiteWorks Digital",Scam,Medium,upfront_payment,fraud_email_employee_license_reimbursement_17,Upfront payment hidden inside recruitment or onboarding,Standard expense-policy tone,"The recruitment process makes the applicant fund a fee, deposit, licence, or payroll step before legitimate employment begins."
 SS0288,job_posting,"GreenThread Foundation — Product Support Intern vacancy
 
 About the opening
@@ -4582,7 +4560,7 @@ Requirements
 - The role may include contact with customers, vendors, students, or community partners.
 - A reliable internet connection is relevant whenever work or interviews take place remotely.
 - The organization describes the opening as hybrid and based around Karachi.
-- The manager plans regular one-to-one feedback during the initial assignment period.",Scam,Hard,upfront_payment,fraud_job_posting_mandatory_remote_security_suite_19,Upfront payment hidden inside recruitment or onboarding,Security requirement,"The recruitment process makes the applicant fund a fee, deposit, licence, or payroll step before legitimate employment begins."
+- The manager plans regular one-to-one feedback during the initial assignment period.",Scam,Medium,upfront_payment,fraud_job_posting_mandatory_remote_security_suite_19,Upfront payment hidden inside recruitment or onboarding,Security requirement,"The recruitment process makes the applicant fund a fee, deposit, licence, or payroll step before legitimate employment begins."
 SS0289,message,"Hello Maha — this is Priya Menon with Northstar Systems. We are discussing the Backend Developer opening, an office-based position connected to Chicago. Our interviewer is unwell, so today's call is moved to 27 August at 2:00 PM PKT. The meeting room remains https://careers.northstar-systems.example/backend-developer/2. Let me know whether this timing works for you. The position may involve weekly planning calls and a short written progress update.",Safe,Medium,not_applicable,legitimate_message_last_minute_interview_reschedule_08,Transparent schedule change; same official meeting channel,Urgent scheduling; schedule change,"The communication contains transparent schedule change; same official meeting channel. Although it has a weak warning sign (urgent scheduling; schedule change), the context does not show deception or an improper request."
 SS0290,job_posting,"Lab Assistant
 hybrid · Toronto
@@ -4602,7 +4580,7 @@ Essentials
 - The position includes collaboration with operations, support, and product colleagues.
 - Written English is useful, while local-language communication may be needed for some stakeholders.
 - Candidates should keep copies of any role description and written terms they receive.
-- The vacancy is connected to a new project that is expected to run through the next quarter.",Scam,Hard,upfront_payment,fraud_job_posting_mandatory_remote_security_suite_19,Upfront payment hidden inside recruitment or onboarding,Security requirement,"The recruitment process makes the applicant fund a fee, deposit, licence, or payroll step before legitimate employment begins."
+- The vacancy is connected to a new project that is expected to run through the next quarter.",Scam,Medium,upfront_payment,fraud_job_posting_mandatory_remote_security_suite_19,Upfront payment hidden inside recruitment or onboarding,Security requirement,"The recruitment process makes the applicant fund a fee, deposit, licence, or payroll step before legitimate employment begins."
 SS0291,email,"Subject: Next step for your Frontend Developer application
 
 Hello Zain,
@@ -4632,7 +4610,7 @@ Best,
 Noor Fatima
 CloudPine Software",Safe,Medium,not_applicable,legitimate_email_portfolio_and_transcript_request_08,Appropriate academic documents; staged verification,Transcript request,"The communication contains appropriate academic documents; staged verification. Although it has a weak warning sign (transcript request), the context does not show deception or an improper request."
 SS0293,message,Assalam-o-Alaikum Abdullah. Ayesha Malik here from Crescent Retail Labs. We are a five-person shop and do not have a careers site yet. Send your CV here and I will call after 6 PM.,Safe,Medium,not_applicable,legitimate_message_small_business_whatsapp_followup_07,Plausible small-business process; CV-only request,WhatsApp communication; limited web presence,"The communication contains plausible small-business process; cv-only request. Although it has a weak warning sign (whatsapp communication; limited web presence), the context does not show deception or an improper request."
-SS0294,message,"Hello Usman — this is Sara Iqbal with Cedarline Health. We are discussing the Accounts Assistant opening, a flexible hybrid position connected to Dubai. Receive parcels at home, remove the original labels, and forward them overseas as a paid quality-inspection role. Let me know whether this timing works for you. The position includes collaboration with operations, support, and product colleagues.",Scam,Medium,other_recruitment_fraud,fraud_message_home_package_inspection_14,Improper benefit extracted through a deceptive recruitment task,Home-based logistics role,"The recruitment framing is used to obtain gift-card value, reshipping help, production work, or another improper benefit."
+SS0294,message,"Hello Usman — this is Sara Iqbal with Cedarline Health. We are discussing the Accounts Assistant opening, a flexible hybrid position connected to Dubai. Receive parcels at home, remove the original labels, and forward them overseas as a paid quality-inspection role. Let me know whether this timing works for you. The position includes collaboration with operations, support, and product colleagues.",Scam,Easy,other_recruitment_fraud,fraud_message_home_package_inspection_14,Improper benefit extracted through a deceptive recruitment task,Home-based logistics role,"The recruitment framing is used to obtain gift-card value, reshipping help, production work, or another improper benefit."
 SS0295,job_posting,"Career opportunity in Peshawar: Product Support Intern
 
 Role summary
@@ -4975,7 +4953,7 @@ Candidates should keep copies of any role description and written terms they rec
 The organization is filling the position because its current workload has increased.
 
 Sincerely,
-Omar Siddiqui",Scam,Hard,money_mule,fraud_email_invoice_collection_assistant_20,Use of the applicant's personal account to receive and forward money,Administrative role description,The supposed job requires personal accounts to receive and forward third-party funds rather than using company-controlled banking.
+Omar Siddiqui",Scam,Easy,money_mule,fraud_email_invoice_collection_assistant_20,Use of the applicant's personal account to receive and forward money,Administrative role description,The supposed job requires personal accounts to receive and forward third-party funds rather than using company-controlled banking.
 SS0315,email,"Subject: Next step for your Field Project Officer application
 
 Hello Ahmed,
@@ -5174,7 +5152,7 @@ The work can include coordination with colleagues in more than one time zone.
 
 Kind regards,
 Daniel Reed
-Recruitment",Scam,Hard,upfront_payment,fraud_email_employee_license_reimbursement_17,Upfront payment hidden inside recruitment or onboarding,Standard expense-policy tone,"The recruitment process makes the applicant fund a fee, deposit, licence, or payroll step before legitimate employment begins."
+Recruitment",Scam,Medium,upfront_payment,fraud_email_employee_license_reimbursement_17,Upfront payment hidden inside recruitment or onboarding,Standard expense-policy tone,"The recruitment process makes the applicant fund a fee, deposit, licence, or payroll step before legitimate employment begins."
 SS0329,job_posting,"Now hiring: Warehouse Planning Officer
 
 Location: Berlin
@@ -5734,7 +5712,7 @@ A short role briefing is planned before any technical or task-based evaluation.
 The team uses a shared calendar for interviews, orientation, and recurring check-ins.
 
 Thank you,
-Noor Fatima",Scam,Hard,upfront_payment,fraud_email_employee_license_reimbursement_17,Upfront payment hidden inside recruitment or onboarding,Standard expense-policy tone,"The recruitment process makes the applicant fund a fee, deposit, licence, or payroll step before legitimate employment begins."
+Noor Fatima",Scam,Medium,upfront_payment,fraud_email_employee_license_reimbursement_17,Upfront payment hidden inside recruitment or onboarding,Standard expense-policy tone,"The recruitment process makes the applicant fund a fee, deposit, licence, or payroll step before legitimate employment begins."
 SS0362,email,"Re: Cybersecurity Intern opportunity in Toronto
 
 Hi Amina,
@@ -5978,7 +5956,7 @@ The expected schedule is four weekdays, with timing confirmed during the next co
 
 Best,
 Maya Thompson
-PixelMint Agency",Scam,Hard,credential_theft,fraud_email_direct_bank_access_for_salary_15,"Password, OTP, banking credential, or account-access request",Secure-verification framing,"The communication asks for passwords, OTPs, banking credentials, or direct account access that legitimate recruiters do not need."
+PixelMint Agency",Scam,Easy,credential_theft,fraud_email_direct_bank_access_for_salary_15,"Password, OTP, banking credential, or account-access request",Secure-verification framing,"The communication asks for passwords, OTPs, banking credentials, or direct account access that legitimate recruiters do not need."
 SS0378,message,"Assalam-o-Alaikum Ahmed. Lucas Meyer here from UrbanNest Services. We are discussing the Field Project Officer opening, a remote position connected to Islamabad. Bilal from our product team referred you. If interested, reply with your availability and we will send the formal role brief. You can ask any practical questions before proceeding. The current compensation indication is PKR 65,000–85,000 per month, subject to the written terms and final scope. Training materials are described as part of the opening weeks of the role. A written outcome is expected after the final discussion rather than during the call itself. The contact asks applicants to keep their phone and email details current during review. The team aims to finish the current hiring round by 7 September.",Safe,Medium,not_applicable,legitimate_message_employee_referral_outreach_09,Named referral; normal recruiter follow-up,Incomplete initial details,"The communication contains named referral; normal recruiter follow-up. Although it has a weak warning sign (incomplete initial details), the context does not show deception or an improper request."
 SS0379,job_posting,"Career opportunity in Dublin: Junior Data Analyst
 
@@ -6076,7 +6054,7 @@ The opening includes routine administrative work alongside role-specific respons
 
 Regards,
 Sara Iqbal
-Talent Team",Scam,Hard,credential_theft,fraud_email_direct_bank_access_for_salary_15,"Password, OTP, banking credential, or account-access request",Secure-verification framing,"The communication asks for passwords, OTPs, banking credentials, or direct account access that legitimate recruiters do not need."
+Talent Team",Scam,Easy,credential_theft,fraud_email_direct_bank_access_for_salary_15,"Password, OTP, banking credential, or account-access request",Secure-verification framing,"The communication asks for passwords, OTPs, banking credentials, or direct account access that legitimate recruiters do not need."
 SS0386,email,"Subject: Graphic Designer — recruitment update
 
 Dear Daniyal,
@@ -6401,7 +6379,7 @@ Additional context
 - The hiring contact is coordinating several interview windows during the same week.
 - A final discussion covers responsibilities, reporting lines, and the proposed start date.
 - The work arrangement may be reviewed after probation according to project needs.
-- Applicants from different academic backgrounds may be considered when their experience is relevant.",Scam,Medium,money_mule,fraud_job_posting_personal_account_settlement_clerk_08,Use of the applicant's personal account to receive and forward money,Payments role,The supposed job requires personal accounts to receive and forward third-party funds rather than using company-controlled banking.
+- Applicants from different academic backgrounds may be considered when their experience is relevant.",Scam,Easy,money_mule,fraud_job_posting_personal_account_settlement_clerk_08,Use of the applicant's personal account to receive and forward money,Payments role,The supposed job requires personal accounts to receive and forward third-party funds rather than using company-controlled banking.
 SS0400,email,"Re: Content Writer opportunity in Multan
 
 Hi Iqra,
@@ -7483,7 +7461,7 @@ Some assignments may require coordination across departments before work is fina
 The selection timeline can move if the hiring manager's project schedule changes.
 
 Thank you,
-Hamza Khan",Scam,Hard,credential_theft,fraud_email_direct_bank_access_for_salary_15,"Password, OTP, banking credential, or account-access request",Secure-verification framing,"The communication asks for passwords, OTPs, banking credentials, or direct account access that legitimate recruiters do not need."
+Hamza Khan",Scam,Easy,credential_theft,fraud_email_direct_bank_access_for_salary_15,"Password, OTP, banking credential, or account-access request",Secure-verification framing,"The communication asks for passwords, OTPs, banking credentials, or direct account access that legitimate recruiters do not need."
 SS0468,email,"Subject: Backend Developer — recruitment update
 
 Dear Maha,
@@ -7926,7 +7904,7 @@ Candidates should prepare one or two examples that show how they handled a simil
 
 Best,
 Imran Baig
-CloudPine Software",Scam,Hard,money_mule,fraud_email_invoice_collection_assistant_20,Use of the applicant's personal account to receive and forward money,Administrative role description,The supposed job requires personal accounts to receive and forward third-party funds rather than using company-controlled banking.
+CloudPine Software",Scam,Easy,money_mule,fraud_email_invoice_collection_assistant_20,Use of the applicant's personal account to receive and forward money,Administrative role description,The supposed job requires personal accounts to receive and forward third-party funds rather than using company-controlled banking.
 SS0489,email,"Candidate update | BeaconFox Technologies
 
 Hamza,
@@ -8210,7 +8188,7 @@ Written English is useful, while local-language communication may be needed for 
 
 Regards,
 Omar Siddiqui
-Talent Team",Scam,Hard,credential_theft,fraud_email_tax_portal_mailbox_access_19,"Password, OTP, banking credential, or account-access request",Tax-compliance framing,"The communication asks for passwords, OTPs, banking credentials, or direct account access that legitimate recruiters do not need."
+Talent Team",Scam,Easy,credential_theft,fraud_email_tax_portal_mailbox_access_19,"Password, OTP, banking credential, or account-access request",Tax-compliance framing,"The communication asks for passwords, OTPs, banking credentials, or direct account access that legitimate recruiters do not need."
 SS0505,email,"Subject: Graduate Software Engineer — recruitment update
 
 Dear Hassan,
@@ -8225,7 +8203,7 @@ The hiring contact is coordinating several interview windows during the same wee
 
 Regards,
 Farhan Qureshi
-Talent Team",Scam,Hard,upfront_payment,fraud_email_employee_license_reimbursement_17,Upfront payment hidden inside recruitment or onboarding,Standard expense-policy tone,"The recruitment process makes the applicant fund a fee, deposit, licence, or payroll step before legitimate employment begins."
+Talent Team",Scam,Medium,upfront_payment,fraud_email_employee_license_reimbursement_17,Upfront payment hidden inside recruitment or onboarding,Standard expense-policy tone,"The recruitment process makes the applicant fund a fee, deposit, licence, or payroll step before legitimate employment begins."
 SS0506,message,"Good afternoon. I’m Hamza Khan, contacting you for Willow & Co.. We will email a cheque for more than the laptop cost; deposit it, buy the equipment, and return the unused balance. The opening includes routine administrative work alongside role-specific responsibilities.",Scam,Medium,cheque_overpayment,fraud_message_cheque_for_home_office_07,Cheque overpayment followed by purchase or return-transfer instructions,Remote-work equipment context,"The applicant is asked to deposit an oversized cheque and spend or return part of it, a classic recruitment overpayment mechanism."
 SS0507,job_posting,"Redwood Operations — Frontend Developer vacancy
 
@@ -8512,7 +8490,7 @@ The team keeps written notes of interviews so candidates can be assessed consist
 
 Regards,
 Sara Iqbal
-Talent Team",Scam,Hard,money_mule,fraud_email_invoice_collection_assistant_20,Use of the applicant's personal account to receive and forward money,Administrative role description,The supposed job requires personal accounts to receive and forward third-party funds rather than using company-controlled banking.
+Talent Team",Scam,Easy,money_mule,fraud_email_invoice_collection_assistant_20,Use of the applicant's personal account to receive and forward money,Administrative role description,The supposed job requires personal accounts to receive and forward third-party funds rather than using company-controlled banking.
 SS0519,message,"Hello Ahmed — this is Priya Menon with Riverstone Media. We are discussing the Client Success Executive opening, an onsite position connected to Berlin. The university careers office referred your profile, and you are shortlisted for an interview on 20 August. Let me know whether this timing works for you. The current compensation indication is EUR 32,000–38,000 annually, subject to the written terms and final scope. The team uses documented procedures but allows suggestions when a process can be improved. Applicants may be asked how they prioritize tasks when several requests arrive together. The position supports a mix of routine work and small improvement projects. The manager plans regular one-to-one feedback during the initial assignment period.",Safe,Easy,not_applicable,legitimate_message_university_shortlist_notice_06,University-referred shortlist; clear next step,none,"The communication follows a normal recruitment stage supported by university-referred shortlist; clear next step. It does not seek payment, credentials, or inappropriate account access."
 SS0520,email,"Subject: Next step for your Sales Development Representative application
 
@@ -8615,7 +8593,7 @@ Additional context
 - A final discussion covers responsibilities, reporting lines, and the proposed start date.
 - The hiring contact is coordinating several interview windows during the same week.
 - Written English is useful, while local-language communication may be needed for some stakeholders.
-- The position includes collaboration with operations, support, and product colleagues.",Scam,Hard,identity_document_misuse,fraud_job_posting_complete_identity_profile_before_contact_17,Excessive identity-document collection at an inappropriate stage,Automated screening description,"It requests a disproportionate identity package before an appropriate hiring or onboarding stage, creating a clear misuse risk."
+- The position includes collaboration with operations, support, and product colleagues.",Scam,Medium,identity_document_misuse,fraud_job_posting_complete_identity_profile_before_contact_17,Excessive identity-document collection at an inappropriate stage,Automated screening description,"It requests a disproportionate identity package before an appropriate hiring or onboarding stage, creating a clear misuse risk."
 SS0526,message,"Good afternoon. I’m Nadia Hussain, contacting you for Maple & Byte Studio. Your public portfolio looks relevant to our Data Annotation Specialist opening. Would you be open to a short introductory call? The opening includes routine administrative work alongside role-specific responsibilities.",Safe,Easy,not_applicable,legitimate_message_linkedin_recruiter_outreach_04,Role-relevant outreach; normal introductory call,none,"The communication follows a normal recruitment stage supported by role-relevant outreach; normal introductory call. It does not seek payment, credentials, or inappropriate account access."
 SS0527,email,"Subject: NovaBridge Consulting hiring process and availability
 
@@ -8677,7 +8655,7 @@ The role may include contact with customers, vendors, students, or community par
 
 Availability for a start near 7 September is preferred but can be discussed.
 
-The organization describes the opening as office-based and based around Chicago.",Scam,Hard,upfront_payment,fraud_job_posting_mandatory_remote_security_suite_19,Upfront payment hidden inside recruitment or onboarding,Security requirement,"The recruitment process makes the applicant fund a fee, deposit, licence, or payroll step before legitimate employment begins."
+The organization describes the opening as office-based and based around Chicago.",Scam,Medium,upfront_payment,fraud_job_posting_mandatory_remote_security_suite_19,Upfront payment hidden inside recruitment or onboarding,Security requirement,"The recruitment process makes the applicant fund a fee, deposit, licence, or payroll step before legitimate employment begins."
 SS0531,job_posting,"HR Operations Intern
 hybrid · Dublin
 
@@ -9760,7 +9738,7 @@ The hiring contact is coordinating several interview windows during the same wee
 
 Kind regards,
 Maya Thompson
-Recruitment",Scam,Hard,money_mule,fraud_email_invoice_collection_assistant_20,Use of the applicant's personal account to receive and forward money,Administrative role description,The supposed job requires personal accounts to receive and forward third-party funds rather than using company-controlled banking.
+Recruitment",Scam,Easy,money_mule,fraud_email_invoice_collection_assistant_20,Use of the applicant's personal account to receive and forward money,Administrative role description,The supposed job requires personal accounts to receive and forward third-party funds rather than using company-controlled banking.
 SS0593,email,"Re: Technical Support Engineer opportunity in Chicago
 
 Hi Daniyal,
