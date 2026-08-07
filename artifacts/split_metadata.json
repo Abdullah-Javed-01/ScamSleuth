@@ -1,0 +1,19 @@
+{
+    "random_seed": 42,
+    "source_dataset": "scamsleuth_dataset_v1.2_final.csv",
+    "source_sha256": "dd4a6090c5a5b5b7231e385df2e09cf7e073d4a2a429ef8d10079ffb1db388cb",
+    "total_rows": 600,
+    "total_clusters": 120,
+    "train": {
+        "rows": 420,
+        "clusters": 84
+    },
+    "validation": {
+        "rows": 90,
+        "clusters": 18
+    },
+    "test": {
+        "rows": 90,
+        "clusters": 18
+    }
+}

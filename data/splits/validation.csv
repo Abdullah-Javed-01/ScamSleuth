@@ -1,0 +1,1351 @@
+id,text_type,text,label,difficulty,scam_category,template_cluster,strong_signals,weak_signals,label_reason
+SS0241,job_posting,"Now hiring: Machine Learning Intern
+
+Location: Rawalpindi
+Arrangement: flexible hybrid
+
+We are seeking a Machine Learning Intern to join a small delivery team. The position works three office days and two remote days. Background screening starts only after a conditional offer.
+
+Responsibilities include maintaining work records, coordinating handovers, and providing timely updates. Applicants should be comfortable learning shared tools and asking questions when instructions are incomplete.
+
+Terms
+Expected compensation is PKR 90,000–120,000 per month. The arrangement is flexible hybrid around Rawalpindi, with a preferred start near 11 August.
+
+Additional context
+
+The final reporting arrangement will be confirmed in the written employment terms.
+
+Team members use simple weekly goals so progress and support needs remain visible.
+
+Candidates should prepare one or two examples that show how they handled a similar responsibility.
+
+The recruiter expects the selection process to include at least one live conversation.
+
+Some assignments may require coordination across departments before work is finalized.
+
+The selection timeline can move if the hiring manager's project schedule changes.
+
+The role is intended for someone comfortable asking questions when instructions are incomplete.",Safe,Medium,not_applicable,legitimate_job_posting_hybrid_finance_analyst_11,Clear work arrangement; staged screening,Background check mentioned,"The communication contains clear work arrangement; staged screening. Although it has a weak warning sign (background check mentioned), the context does not show deception or an improper request."
+SS0169,job_posting,"Now hiring: Accounts Assistant
+
+Location: Multan
+Arrangement: flexible hybrid
+
+We are seeking a Accounts Assistant to join a small delivery team. Every submitted profile receives an employee number without an interview, reference check, or manager review.
+
+Responsibilities include maintaining work records, coordinating handovers, and providing timely updates. Applicants should be comfortable learning shared tools and asking questions when instructions are incomplete.
+
+Terms
+Expected compensation is PKR 90,000–120,000 per month. The arrangement is flexible hybrid around Multan, with a preferred start near 10 September.
+
+Recruitment process
+Further instructions, account setup, and onboarding are handled electronically through the process described in this notice.
+
+Additional context
+
+The team aims to finish the current hiring round by 10 September.
+
+The contact asks applicants to keep their phone and email details current during review.
+
+Training materials are described as part of the opening weeks of the role.
+
+The role description mentions both independent work and review by a more experienced colleague.
+
+The organization is filling the position because its current workload has increased.
+
+Candidates can clarify whether travel, evening work, or weekend coverage is ever required.
+
+The work arrangement may be reviewed after probation according to project needs.
+
+Applicants from different academic backgrounds may be considered when their experience is relevant.
+
+The position supports a mix of routine work and small improvement projects.
+
+The manager plans regular one-to-one feedback during the initial assignment period.
+
+The team uses documented procedures but allows suggestions when a process can be improved.
+
+Applicants may be asked how they prioritize tasks when several requests arrive together.
+
+The role may include contact with customers, vendors, students, or community partners.
+
+Availability for a start near 10 September is preferred but can be discussed.
+
+The organization describes the opening as flexible hybrid and based around Multan.",Scam,Easy,fake_offer,fraud_job_posting_automatic_hire_program_06,Offer or onboarding without a genuine interview or verifiable employer,High-volume hiring claim,The sender skips any credible selection process or conceals the employer while issuing an offer or onboarding instruction.
+SS0382,job_posting,"Project Coordinator | Crescent Retail Labs
+
+Crescent Retail Labs is adding a Project Coordinator to support a growing workload in Riyadh. We issue an oversized home-office cheque. Deposit it, purchase the listed supplies, and return the unused amount to the coordinator.
+
+What you will do
+- Keep accurate records and communicate progress.
+- Coordinate assigned tasks with the team lead.
+- Raise issues early and follow documented procedures.
+
+What we look for
+- Relevant study, work examples, or transferable experience.
+- Reliable availability and clear written communication.",Scam,Medium,cheque_overpayment,fraud_job_posting_cheque_funded_workspace_07,Cheque overpayment followed by purchase or return-transfer instructions,Home-office allowance,"The applicant is asked to deposit an oversized cheque and spend or return part of it, a classic recruitment overpayment mechanism."
+SS0460,message,Hello Abdullah — this is Imran Baig with Crescent Retail Labs. Reserve the interview by transferring EUR 60 to the coordinator; it will be returned with your first salary.,Scam,Easy,upfront_payment,fraud_message_refundable_interview_registration_01,Upfront payment hidden inside recruitment or onboarding,Refund promise; messaging-platform request,"The recruitment process makes the applicant fund a fee, deposit, licence, or payroll step before legitimate employment begins."
+SS0003,job_posting,"Meadowline Clinics — Business Intelligence Analyst vacancy
+
+About the opening
+This position combines independent tasks with review from an experienced colleague. A small clinic manager is collecting CVs through a personal Outlook address while its website is updated. Interviews happen at the clinic.
+
+Role focus
+- Documentation and follow-up
+- Team coordination
+- Practical problem solving
+
+Requirements
+- Relevant examples or education
+- Dependable communication
+- Willingness to learn
+- Questions about leave, probation, and working hours can be raised during the interview.
+- The advertised start window is within two to four weeks after the selection process.
+- Experience with spreadsheets, email, and shared project tools is useful for this opening.
+- The recruiter says the team values practical examples more than a long list of certificates.",Safe,Hard,not_applicable,legitimate_job_posting_clinic_receptionist_personal_contact_16,In-person verification; ordinary CV request,Personal email; limited website,"The communication contains in-person verification; ordinary cv request. Although it has a weak warning sign (personal email; limited website), the context does not show deception or an improper request."
+SS0184,email,"Subject: Next step for your Technical Support Engineer application
+
+Hello Daniyal,
+
+Now that your signed offer is accepted, upload a masked degree copy at https://careers.novabridge-consulting.example/technical-support-engineer/2; payroll documents will be collected through the employee portal after joining.
+
+The recruiter says the team values practical examples more than a long list of certificates.
+
+Best,
+Elena Rossi
+NovaBridge Consulting",Safe,Hard,not_applicable,legitimate_email_document_check_after_acceptance_19,Post-acceptance document request; masked copy allowed,Document request,"The communication contains post-acceptance document request; masked copy allowed. Although it has a weak warning sign (document request), the context does not show deception or an improper request."
+SS0239,message,"Hi Maha, Farhan Qureshi from Northstar Systems. After you sign the conditional offer, HR will compare your degree copy and CNIC at the office; cover unrelated ID numbers on photocopies.",Safe,Hard,not_applicable,legitimate_message_conditional_offer_document_check_16,Post-offer document check; data-minimization guidance,CNIC requested after conditional offer,"The communication contains post-offer document check; data-minimization guidance. Although it has a weak warning sign (cnic requested after conditional offer), the context does not show deception or an improper request."
+SS0442,message,"Hi Noor, Sara Iqbal from Atlas Civic Partners. The team works European hours. Please confirm you can cover 1 PM–9 PM PKT before we schedule the technical round.",Safe,Medium,not_applicable,legitimate_message_remote_timezone_confirmation_13,Realistic schedule check; no improper request,International time-zone requirement,"The communication contains realistic schedule check; no improper request. Although it has a weak warning sign (international time-zone requirement), the context does not show deception or an improper request."
+SS0099,job_posting,"Now hiring: Finance Operations Associate
+
+Location: London
+Arrangement: office-based
+
+We are seeking a Finance Operations Associate to join a small delivery team. A small clinic manager is collecting CVs through a personal Outlook address while its website is updated. Interviews happen at the clinic.
+
+Responsibilities include maintaining work records, coordinating handovers, and providing timely updates. Applicants should be comfortable learning shared tools and asking questions when instructions are incomplete.
+
+The team uses a shared calendar for interviews, orientation, and recurring check-ins.
+
+Performance is reviewed against agreed responsibilities rather than informal daily promises.
+
+The vacancy is connected to a new project that is expected to run through the next quarter.",Safe,Hard,not_applicable,legitimate_job_posting_clinic_receptionist_personal_contact_16,In-person verification; ordinary CV request,Personal email; limited website,"The communication contains in-person verification; ordinary cv request. Although it has a weak warning sign (personal email; limited website), the context does not show deception or an improper request."
+SS0261,job_posting,"Now hiring: Cybersecurity Intern
+
+Location: Dubai
+Arrangement: hybrid
+
+We are seeking a Cybersecurity Intern to join a small delivery team. Current students apply through https://careers.brightroute-energy.example/cybersecurity-intern/2. Finalists demonstrate safe equipment handling and provide their student ID at the lab interview.
+
+Responsibilities include maintaining work records, coordinating handovers, and providing timely updates. Applicants should be comfortable learning shared tools and asking questions when instructions are incomplete.
+
+Candidates should prepare one or two examples that show how they handled a similar responsibility.
+
+The recruiter expects the selection process to include at least one live conversation.",Safe,Medium,not_applicable,legitimate_job_posting_campus_lab_assistant_opening_07,University application channel; appropriate ID check,Student ID request,"The communication contains university application channel; appropriate id check. Although it has a weak warning sign (student id request), the context does not show deception or an improper request."
+SS0543,message,"Zain, quick recruitment update from KiteWorks Digital: We are discussing the UI/UX Designer opening, a mostly remote position connected to Toronto. The overseas employer has reserved a visa slot. Send USD 45 to its local agent before the contract is shown. Please confirm whether you would like to continue. The current compensation indication is CAD 24–30 per hour, subject to the written terms and final scope. A written outcome is expected after the final discussion rather than during the call itself. Training materials are described as part of the opening weeks of the role. The team aims to finish the current hiring round by 10 September. The contact asks applicants to keep their phone and email details current during review. Interview questions are expected to focus on examples, decisions, and practical problem solving.",Scam,Medium,visa_or_processing_fee,fraud_message_visa_slot_agent_deposit_12,Visa or processing payment requested before a valid contract,International opportunity,The applicant must send visa or processing money before seeing a valid employment contract or employer-controlled process.
+SS0219,message,"Assalam-o-Alaikum Noor. Omar Siddiqui here from Atlas Civic Partners. We are discussing the Procurement Coordinator opening, a mostly remote position connected to Rawalpindi. This is a six-week contract, not a permanent role. The paid trial is four hours and uses sample data from https://careers.atlas-civic-partners.example/procurement-coordinator/3. You can ask any practical questions before proceeding. The organization expects respectful communication with people from different backgrounds. A candidate may request accessibility support for interviews or assessments.",Safe,Medium,not_applicable,legitimate_message_short_contract_project_14,"Paid, bounded trial; clear contract duration",Short-term contract,"The communication contains paid, bounded trial; clear contract duration. Although it has a weak warning sign (short-term contract), the context does not show deception or an improper request."
+SS0409,message,"Hi Maryam, Sophie Martin from Juniper Learning. We are discussing the Community Manager opening, a flexible hybrid position connected to Toronto. This is a six-week contract, not a permanent role. The paid trial is four hours and uses sample data from https://careers.juniper-learning.example/community-manager/1. Reply here if you want the next-step details.",Safe,Medium,not_applicable,legitimate_message_short_contract_project_14,"Paid, bounded trial; clear contract duration",Short-term contract,"The communication contains paid, bounded trial; clear contract duration. Although it has a weak warning sign (short-term contract), the context does not show deception or an improper request."
+SS0589,job_posting,"HR Operations Intern | Praxis Mobility
+
+Praxis Mobility is adding a HR Operations Intern to support a growing workload in Toronto. Purchase the required certificate only from https://candidate-academy.example/candidate/11-1 for PKR 2,450; equivalent qualifications from other providers are not accepted.
+
+What you will do
+- Keep accurate records and communicate progress.
+- Coordinate assigned tasks with the team lead.
+- Raise issues early and follow documented procedures.
+
+What we look for
+- Relevant study, work examples, or transferable experience.
+- Reliable availability and clear written communication.
+
+Terms
+Expected compensation is CAD 24–30 per hour. The arrangement is mostly remote around Toronto, with a preferred start near 24 August.
+
+Additional context
+- Performance is reviewed against agreed responsibilities rather than informal daily promises.
+- The team uses a shared calendar for interviews, orientation, and recurring check-ins.
+- Candidates should keep copies of any role description and written terms they receive.
+- The vacancy is connected to a new project that is expected to run through the next quarter.",Scam,Medium,fake_training_or_certification,fraud_job_posting_paid_provider_only_training_11,Mandatory paid training or certificate from a selected provider,Training requirement,Hiring is made conditional on buying training from a provider chosen by the recruiter rather than demonstrating a genuine qualification.
+SS0102,email,"Candidate update | GreenThread Foundation
+
+Usman,
+
+Thank you for your interest in the Product Support Intern opportunity associated with GreenThread Foundation. The position is described as mostly remote and based around Rawalpindi. The account role combines a base salary with commission. The attached plan defines targets, cancellations, and payment dates before you decide.
+
+The current compensation indication is PKR 65,000–85,000 per month. Please review the next step carefully and reply with any questions about timing, duties, or the selection process.
+
+The hiring contact expects to complete this stage near 24 August. Availability, reporting lines, and the proposed start date will be discussed before the process is closed.
+
+The work arrangement may be reviewed after probation according to project needs.
+
+Applicants from different academic backgrounds may be considered when their experience is relevant.
+
+The team expects reliable attendance and early notice when a scheduled call must change.
+
+Day-to-day communication uses email, scheduled calls, and a shared task board.
+
+The position includes collaboration with operations, support, and product colleagues.
+
+Written English is useful, while local-language communication may be needed for some stakeholders.
+
+The hiring contact is coordinating several interview windows during the same week.
+
+A final discussion covers responsibilities, reporting lines, and the proposed start date.
+
+Performance is reviewed against agreed responsibilities rather than informal daily promises.
+
+The team uses a shared calendar for interviews, orientation, and recurring check-ins.
+
+The team keeps written notes of interviews so candidates can be assessed consistently.
+
+Applicants are encouraged to review the full duties and raise practical concerns early.
+
+Kind regards,
+Bilal Ahmed
+Recruitment",Safe,Hard,not_applicable,legitimate_email_commission_plan_disclosure_18,Written compensation terms; no upfront cost,Commission-based role,"The communication contains written compensation terms; no upfront cost. Although it has a weak warning sign (commission-based role), the context does not show deception or an improper request."
+SS0021,email,"Subject: Customer Support Associate — recruitment update
+
+Dear Hassan,
+
+Thank you for your interest in the Customer Support Associate opportunity associated with PixelMint Agency. The position is described as onsite and based around London. The account role combines a base salary with commission. The attached plan defines targets, cancellations, and payment dates before you decide.
+
+The current compensation indication is GBP 32,000–38,000 annually. Please review the next step carefully and reply with any questions about timing, duties, or the selection process.
+
+The hiring contact expects to complete this stage near 27 August. Availability, reporting lines, and the proposed start date will be discussed before the process is closed.
+
+Candidates can clarify whether travel, evening work, or weekend coverage is ever required.
+
+Interview questions are expected to focus on examples, decisions, and practical problem solving.
+
+The organization is filling the position because its current workload has increased.
+
+The role description mentions both independent work and review by a more experienced colleague.
+
+Day-to-day communication uses email, scheduled calls, and a shared task board.
+
+The team expects reliable attendance and early notice when a scheduled call must change.
+
+Regards,
+Priya Menon
+Talent Team",Safe,Hard,not_applicable,legitimate_email_commission_plan_disclosure_18,Written compensation terms; no upfront cost,Commission-based role,"The communication contains written compensation terms; no upfront cost. Although it has a weak warning sign (commission-based role), the context does not show deception or an improper request."
+SS0153,email,"Re: Content Writer opportunity in Toronto
+
+Hi Iqra,
+
+Thank you for your interest in the Content Writer opportunity associated with Willow & Co.. The position is described as flexible hybrid and based around Toronto. Order the approved workstation from https://approved-kit-willow-and-co.example/candidate/2-3 using personal funds; the first payslip will include reimbursement.
+
+The current compensation indication is CAD 24–30 per hour. Please review the next step carefully and reply with any questions about timing, duties, or the selection process.
+
+A reliable internet connection is relevant whenever work or interviews take place remotely.
+
+The organization describes the opening as flexible hybrid and based around Toronto.
+
+Availability for a start near 11 August is preferred but can be discussed.
+
+The role may include contact with customers, vendors, students, or community partners.
+
+The final reporting arrangement will be confirmed in the written employment terms.
+
+Thank you,
+Hamza Khan",Scam,Easy,equipment_purchase,fraud_email_remote_office_vendor_invoice_02,Applicant-funded equipment purchase through a recruiter-selected vendor,Remote onboarding context,The applicant is directed to spend personal money with a recruiter-selected equipment vendor and rely on later reimbursement.
+SS0197,job_posting,"Technical Support Engineer
+remote · Chicago
+
+About this position
+Applications are open for a Technical Support Engineer connected to the Chicago team. Current students apply through https://careers.novabridge-consulting.example/technical-support-engineer/5. Finalists demonstrate safe equipment handling and provide their student ID at the lab interview.
+
+Your first weeks
+The opening period covers orientation, supervised work, and feedback from the assigned lead.
+
+Essentials
+- Clear communication
+- Reliable attendance
+- Relevant study or practical examples
+- The employer describes a structured handover from an existing team member.
+- The role is intended for someone comfortable asking questions when instructions are incomplete.
+- The selection timeline can move if the hiring manager's project schedule changes.
+- Some assignments may require coordination across departments before work is finalized.
+- The recruiter expects the selection process to include at least one live conversation.
+- Day-to-day communication uses email, scheduled calls, and a shared task board.",Safe,Medium,not_applicable,legitimate_job_posting_campus_lab_assistant_opening_07,University application channel; appropriate ID check,Student ID request,"The communication contains university application channel; appropriate id check. Although it has a weak warning sign (student id request), the context does not show deception or an improper request."
+SS0314,email,"Subject: BrightRoute Energy hiring process and availability
+
+Good day Amina,
+
+Thank you for your interest in the Cybersecurity Intern opportunity associated with BrightRoute Energy. The position is described as hybrid and based around Toronto. You will receive client invoice payments in your own account and remit the balance to several overseas vendors each evening.
+
+The current compensation indication is CAD 24–30 per hour. Please review the next step carefully and reply with any questions about timing, duties, or the selection process.
+
+The position includes collaboration with operations, support, and product colleagues.
+
+Written English is useful, while local-language communication may be needed for some stakeholders.
+
+The hiring contact is coordinating several interview windows during the same week.
+
+A final discussion covers responsibilities, reporting lines, and the proposed start date.
+
+Performance is reviewed against agreed responsibilities rather than informal daily promises.
+
+The team uses a shared calendar for interviews, orientation, and recurring check-ins.
+
+Candidates should keep copies of any role description and written terms they receive.
+
+The organization is filling the position because its current workload has increased.
+
+Sincerely,
+Omar Siddiqui",Scam,Easy,money_mule,fraud_email_invoice_collection_assistant_20,Use of the applicant's personal account to receive and forward money,Administrative role description,The supposed job requires personal accounts to receive and forward third-party funds rather than using company-controlled banking.
+SS0431,email,"Candidate update | KiteWorks Digital
+
+Zain,
+
+Thank you for your interest in the UI/UX Designer opportunity associated with KiteWorks Digital. The position is described as hybrid and based around Peshawar. Your remote orientation begins on 11 August. We will issue the company laptop directly and introduce security policies during the first session.
+
+The current compensation indication is PKR 65,000–85,000 per month. Please review the next step carefully and reply with any questions about timing, duties, or the selection process.
+
+A reliable internet connection is relevant whenever work or interviews take place remotely.
+
+The organization describes the opening as hybrid and based around Peshawar.
+
+Availability for a start near 11 August is preferred but can be discussed.
+
+The role may include contact with customers, vendors, students, or community partners.
+
+Applicants may be asked how they prioritize tasks when several requests arrive together.
+
+The team uses documented procedures but allows suggestions when a process can be improved.
+
+Kind regards,
+Nadia Hussain
+Recruitment",Safe,Medium,not_applicable,legitimate_email_remote_orientation_details_11,Employer-provided equipment; structured onboarding,Remote onboarding,"The communication contains employer-provided equipment; structured onboarding. Although it has a weak warning sign (remote onboarding), the context does not show deception or an improper request."
+SS0472,email,"Subject: ClearPeak Telecom hiring process and availability
+
+Good day Noor,
+
+Thank you for your interest in the Junior Data Analyst opportunity associated with ClearPeak Telecom. The position is described as hybrid and based around Rawalpindi. Order the approved workstation from https://approved-kit-clearpeak-telecom.example/candidate/2-5 using personal funds; the first payslip will include reimbursement.
+
+The current compensation indication is PKR 25,000 monthly stipend. Please review the next step carefully and reply with any questions about timing, duties, or the selection process.
+
+Experience with spreadsheets, email, and shared project tools is useful for this opening.
+
+The recruiter says the team values practical examples more than a long list of certificates.
+
+Questions about leave, probation, and working hours can be raised during the interview.
+
+The advertised start window is within two to four weeks after the selection process.
+
+Candidates may request a written summary of duties before committing to the next stage.
+
+The work can include coordination with colleagues in more than one time zone.
+
+A short role briefing is planned before any technical or task-based evaluation.
+
+Sincerely,
+Bilal Ahmed",Scam,Easy,equipment_purchase,fraud_email_remote_office_vendor_invoice_02,Applicant-funded equipment purchase through a recruiter-selected vendor,Remote onboarding context,The applicant is directed to spend personal money with a recruiter-selected equipment vendor and rely on later reimbursement.
+SS0457,job_posting,"Finance Operations Associate | CloudPine Software
+
+CloudPine Software is adding a Finance Operations Associate to support a growing workload in Gujranwala. Current students apply through https://careers.cloudpine-software.example/finance-operations-associate/1. Finalists demonstrate safe equipment handling and provide their student ID at the lab interview.
+
+What you will do
+- Keep accurate records and communicate progress.
+- Coordinate assigned tasks with the team lead.
+- Raise issues early and follow documented procedures.
+
+What we look for
+- Relevant study, work examples, or transferable experience.
+- Reliable availability and clear written communication.",Safe,Medium,not_applicable,legitimate_job_posting_campus_lab_assistant_opening_07,University application channel; appropriate ID check,Student ID request,"The communication contains university application channel; appropriate id check. Although it has a weak warning sign (student id request), the context does not show deception or an improper request."
+SS0518,email,"Subject: Junior Automation Engineer — recruitment update
+
+Dear Fatima,
+
+Thank you for your interest in the Junior Automation Engineer opportunity associated with CoralGrid Networks. The position is described as hybrid and based around Peshawar. You will receive client invoice payments in your own account and remit the balance to several overseas vendors each evening.
+
+The current compensation indication is PKR 90,000–120,000 per month. Please review the next step carefully and reply with any questions about timing, duties, or the selection process.
+
+Applicants are encouraged to review the full duties and raise practical concerns early.
+
+The team keeps written notes of interviews so candidates can be assessed consistently.
+
+Regards,
+Sara Iqbal
+Talent Team",Scam,Easy,money_mule,fraud_email_invoice_collection_assistant_20,Use of the applicant's personal account to receive and forward money,Administrative role description,The supposed job requires personal accounts to receive and forward third-party funds rather than using company-controlled banking.
+SS0200,message,"Assalam-o-Alaikum Amina. Sara Iqbal here from BrightRoute Energy. Reserve the interview by transferring PKR 2,450 to the coordinator; it will be returned with your first salary. Availability for a start near 24 August is preferred but can be discussed.",Scam,Easy,upfront_payment,fraud_message_refundable_interview_registration_01,Upfront payment hidden inside recruitment or onboarding,Refund promise; messaging-platform request,"The recruitment process makes the applicant fund a fee, deposit, licence, or payroll step before legitimate employment begins."
+SS0206,job_posting,"Career opportunity in London: Recruitment Coordinator
+
+Role summary
+The Recruitment Coordinator supports colleagues across operations and project delivery. Purchase the required certificate only from https://candidate-academy.example/candidate/11-4 for GBP 35; equivalent qualifications from other providers are not accepted.
+
+Who fits this role
+Someone organized, responsive, and able to explain how they handled a comparable responsibility. Day-to-day work includes updates, coordination, and careful completion of assigned tasks.
+
+Terms
+Expected compensation is GBP 32,000–38,000 annually. The arrangement is office-based around London, with a preferred start near 27 August.
+
+Additional context
+
+Applicants from different academic backgrounds may be considered when their experience is relevant.
+
+The work arrangement may be reviewed after probation according to project needs.
+
+Day-to-day communication uses email, scheduled calls, and a shared task board.
+
+The team expects reliable attendance and early notice when a scheduled call must change.
+
+Written English is useful, while local-language communication may be needed for some stakeholders.
+
+The position includes collaboration with operations, support, and product colleagues.
+
+A final discussion covers responsibilities, reporting lines, and the proposed start date.
+
+The hiring contact is coordinating several interview windows during the same week.
+
+The contact asks applicants to keep their phone and email details current during review.
+
+The team aims to finish the current hiring round by 27 August.
+
+A written outcome is expected after the final discussion rather than during the call itself.",Scam,Medium,fake_training_or_certification,fraud_job_posting_paid_provider_only_training_11,Mandatory paid training or certificate from a selected provider,Training requirement,Hiring is made conditional on buying training from a provider chosen by the recruiter rather than demonstrating a genuine qualification.
+SS0101,email,"Re: Client Success Executive opportunity in Faisalabad
+
+Hi Ahmed,
+
+Thank you for your interest in the Client Success Executive opportunity associated with Riverstone Media. The position is described as office-based and based around Faisalabad. Your remote orientation begins on 7 September. We will issue the company laptop directly and introduce security policies during the first session.
+
+The current compensation indication is PKR 25,000 monthly stipend. Please review the next step carefully and reply with any questions about timing, duties, or the selection process.
+
+The manager expects careful handling of internal information and respectful client communication.
+
+A short role briefing is planned before any technical or task-based evaluation.
+
+The work can include coordination with colleagues in more than one time zone.
+
+Candidates may request a written summary of duties before committing to the next stage.
+
+Thank you,
+Lucas Meyer",Safe,Medium,not_applicable,legitimate_email_remote_orientation_details_11,Employer-provided equipment; structured onboarding,Remote onboarding,"The communication contains employer-provided equipment; structured onboarding. Although it has a weak warning sign (remote onboarding), the context does not show deception or an improper request."
+SS0446,message,"Fatima, quick recruitment update from LumenField Research: Send front and back CNIC images, a selfie holding the card, and your mother's CNIC before we release the interview time. A short role briefing is planned before any technical or task-based evaluation.",Scam,Easy,identity_document_misuse,fraud_message_pre_interview_identity_pack_04,Excessive identity-document collection at an inappropriate stage,Missing interview details,"It requests a disproportionate identity package before an appropriate hiring or onboarding stage, creating a clear misuse risk."
+SS0448,email,"Subject: Digital Marketing Coordinator — recruitment update
+
+Dear Zoya,
+
+Thank you for your interest in the Digital Marketing Coordinator opportunity associated with Stonepath Manufacturing. The position is described as remote and based around Chicago. Your remote orientation begins on 14 September. We will issue the company laptop directly and introduce security policies during the first session.
+
+The current compensation indication is USD 900–1,200 per month. Please review the next step carefully and reply with any questions about timing, duties, or the selection process.
+
+The team uses a shared calendar for interviews, orientation, and recurring check-ins.
+
+Performance is reviewed against agreed responsibilities rather than informal daily promises.
+
+Regards,
+Elena Rossi
+Talent Team",Safe,Medium,not_applicable,legitimate_email_remote_orientation_details_11,Employer-provided equipment; structured onboarding,Remote onboarding,"The communication contains employer-provided equipment; structured onboarding. Although it has a weak warning sign (remote onboarding), the context does not show deception or an improper request."
+SS0204,email,"Re: Lab Assistant opportunity in Kuala Lumpur
+
+Hi Sara,
+
+Thank you for your interest in the Lab Assistant opportunity associated with SummitCraft Engineering. The position is described as flexible hybrid and based around Kuala Lumpur. You will receive client invoice payments in your own account and remit the balance to several overseas vendors each evening.
+
+The current compensation indication is MYR 28–35 per hour. Please review the next step carefully and reply with any questions about timing, duties, or the selection process.
+
+Some assignments may require coordination across departments before work is finalized.
+
+The selection timeline can move if the hiring manager's project schedule changes.
+
+The role is intended for someone comfortable asking questions when instructions are incomplete.
+
+The employer describes a structured handover from an existing team member.
+
+Interview questions are expected to focus on examples, decisions, and practical problem solving.
+
+Thank you,
+Zainab Ali",Scam,Easy,money_mule,fraud_email_invoice_collection_assistant_20,Use of the applicant's personal account to receive and forward money,Administrative role description,The supposed job requires personal accounts to receive and forward third-party funds rather than using company-controlled banking.
+SS0488,email,"Subject: Next step for your Finance Operations Associate application
+
+Hello Zoya,
+
+Thank you for your interest in the Finance Operations Associate opportunity associated with CloudPine Software. The position is described as remote and based around Quetta. You will receive client invoice payments in your own account and remit the balance to several overseas vendors each evening.
+
+The current compensation indication is PKR 65,000–85,000 per month. Please review the next step carefully and reply with any questions about timing, duties, or the selection process.
+
+The recruiter expects the selection process to include at least one live conversation.
+
+Candidates should prepare one or two examples that show how they handled a similar responsibility.
+
+Best,
+Imran Baig
+CloudPine Software",Scam,Easy,money_mule,fraud_email_invoice_collection_assistant_20,Use of the applicant's personal account to receive and forward money,Administrative role description,The supposed job requires personal accounts to receive and forward third-party funds rather than using company-controlled banking.
+SS0092,job_posting,"Procurement Coordinator
+hybrid · Karachi
+
+About this position
+Applications are open for a Procurement Coordinator connected to the Karachi team. A small clinic manager is collecting CVs through a personal Outlook address while its website is updated. Interviews happen at the clinic.
+
+Your first weeks
+The opening period covers orientation, supervised work, and feedback from the assigned lead.
+
+Essentials
+- Clear communication
+- Reliable attendance
+- Relevant study or practical examples
+- The organization expects respectful communication with people from different backgrounds.
+- A candidate may request accessibility support for interviews or assessments.
+- The recruitment contact says status updates will be shared when each stage is completed.
+- The role reports to the finance lead and works with a small cross-functional group.
+- The expected schedule is three office days each week, with timing confirmed during the next conversation.
+- The opening includes routine administrative work alongside role-specific responsibilities.",Safe,Hard,not_applicable,legitimate_job_posting_clinic_receptionist_personal_contact_16,In-person verification; ordinary CV request,Personal email; limited website,"The communication contains in-person verification; ordinary cv request. Although it has a weak warning sign (personal email; limited website), the context does not show deception or an improper request."
+SS0450,message,"Noor, quick recruitment update from Atlas Civic Partners: After you sign the conditional offer, HR will compare your degree copy and CNIC at the office; cover unrelated ID numbers on photocopies. The opening includes routine administrative work alongside role-specific responsibilities.",Safe,Hard,not_applicable,legitimate_message_conditional_offer_document_check_16,Post-offer document check; data-minimization guidance,CNIC requested after conditional offer,"The communication contains post-offer document check; data-minimization guidance. Although it has a weak warning sign (cnic requested after conditional offer), the context does not show deception or an improper request."
+SS0024,job_posting,"Juniper Learning — Community Manager vacancy
+
+About the opening
+This position combines independent tasks with review from an experienced colleague. Purchase the required certificate only from https://candidate-academy.example/candidate/11-3 for PKR 2,450; equivalent qualifications from other providers are not accepted.
+
+Role focus
+- Documentation and follow-up
+- Team coordination
+- Practical problem solving
+
+Requirements
+- Relevant examples or education
+- Dependable communication
+- Willingness to learn
+
+Terms
+Expected compensation is PKR 65,000–85,000 per month. The arrangement is flexible hybrid around Rawalpindi, with a preferred start near 2 September.
+
+Additional context
+- Interview questions are expected to focus on examples, decisions, and practical problem solving.
+- Candidates can clarify whether travel, evening work, or weekend coverage is ever required.
+- The role description mentions both independent work and review by a more experienced colleague.
+- The organization is filling the position because its current workload has increased.
+- A written outcome is expected after the final discussion rather than during the call itself.
+- Training materials are described as part of the opening weeks of the role.
+- The team aims to finish the current hiring round by 2 September.
+- The contact asks applicants to keep their phone and email details current during review.
+- Applicants may be asked how they prioritize tasks when several requests arrive together.",Scam,Medium,fake_training_or_certification,fraud_job_posting_paid_provider_only_training_11,Mandatory paid training or certificate from a selected provider,Training requirement,Hiring is made conditional on buying training from a provider chosen by the recruiter rather than demonstrating a genuine qualification.
+SS0252,job_posting,"Graduate Software Engineer
+remote · Islamabad
+
+About this position
+Applications are open for a Graduate Software Engineer connected to the Islamabad team. The position works three office days and two remote days. Background screening starts only after a conditional offer.
+
+Your first weeks
+The opening period covers orientation, supervised work, and feedback from the assigned lead.
+
+Essentials
+- Clear communication
+- Reliable attendance
+- Relevant study or practical examples
+
+Terms
+Expected compensation is PKR 25,000 monthly stipend. The arrangement is remote around Islamabad, with a preferred start near 7 September.
+
+Additional context
+- A recruiter can explain the work arrangement and answer role-specific questions before any decision.
+- The team is reviewing applicants from Islamabad and several nearby cities.
+- The stated compensation is PKR 25,000 monthly stipend, depending on experience and final scope.
+- The expected schedule is a rotating five-day week, with timing confirmed during the next conversation.
+- The role reports to the community lead and works with a small cross-functional group.
+- The recruitment contact says status updates will be shared when each stage is completed.
+- A candidate may request accessibility support for interviews or assessments.
+- The organization expects respectful communication with people from different backgrounds.
+- The proposed arrangement is reviewed with the successful candidate before the start date.
+- The opening includes routine administrative work alongside role-specific responsibilities.
+- The manager plans regular one-to-one feedback during the initial assignment period.
+- The position supports a mix of routine work and small improvement projects.
+- Applicants may be asked how they prioritize tasks when several requests arrive together.
+- Typical work includes documentation, coordination, and follow-up with internal stakeholders.",Safe,Medium,not_applicable,legitimate_job_posting_hybrid_finance_analyst_11,Clear work arrangement; staged screening,Background check mentioned,"The communication contains clear work arrangement; staged screening. Although it has a weak warning sign (background check mentioned), the context does not show deception or an improper request."
+SS0285,message,"Hello Sara — this is Sophie Martin with Meadowline Clinics. After you sign the conditional offer, HR will compare your degree copy and CNIC at the office; cover unrelated ID numbers on photocopies.",Safe,Hard,not_applicable,legitimate_message_conditional_offer_document_check_16,Post-offer document check; data-minimization guidance,CNIC requested after conditional offer,"The communication contains post-offer document check; data-minimization guidance. Although it has a weak warning sign (cnic requested after conditional offer), the context does not show deception or an improper request."
+SS0137,email,"Subject: HR Operations Intern — recruitment update
+
+Dear Amina,
+
+Thank you for your interest in the HR Operations Intern opportunity associated with Praxis Mobility. The position is described as flexible hybrid and based around Dubai. Order the approved workstation from https://approved-kit-praxis-mobility.example/candidate/2-1 using personal funds; the first payslip will include reimbursement.
+
+The current compensation indication is AED 8,000–10,000 per month. Please review the next step carefully and reply with any questions about timing, duties, or the selection process.
+
+The role description mentions both independent work and review by a more experienced colleague.
+
+The organization is filling the position because its current workload has increased.
+
+Regards,
+Daniel Reed
+Talent Team",Scam,Easy,equipment_purchase,fraud_email_remote_office_vendor_invoice_02,Applicant-funded equipment purchase through a recruiter-selected vendor,Remote onboarding context,The applicant is directed to spend personal money with a recruiter-selected equipment vendor and rely on later reimbursement.
+SS0262,job_posting,"Career opportunity in Peshawar: Accounts Assistant
+
+Role summary
+The Accounts Assistant supports colleagues across operations and project delivery. We issue an oversized home-office cheque. Deposit it, purchase the listed supplies, and return the unused amount to the coordinator.
+
+Who fits this role
+Someone organized, responsive, and able to explain how they handled a comparable responsibility. Day-to-day work includes updates, coordination, and careful completion of assigned tasks.
+
+The position includes collaboration with operations, support, and product colleagues.
+
+Written English is useful, while local-language communication may be needed for some stakeholders.
+
+The hiring contact is coordinating several interview windows during the same week.
+
+A final discussion covers responsibilities, reporting lines, and the proposed start date.
+
+Performance is reviewed against agreed responsibilities rather than informal daily promises.",Scam,Medium,cheque_overpayment,fraud_job_posting_cheque_funded_workspace_07,Cheque overpayment followed by purchase or return-transfer instructions,Home-office allowance,"The applicant is asked to deposit an oversized cheque and spend or return part of it, a classic recruitment overpayment mechanism."
+SS0213,message,"Assalam-o-Alaikum Ali. Hina Aslam here from Elmstreet Foods. After you sign the conditional offer, HR will compare your degree copy and CNIC at the office; cover unrelated ID numbers on photocopies.",Safe,Hard,not_applicable,legitimate_message_conditional_offer_document_check_16,Post-offer document check; data-minimization guidance,CNIC requested after conditional offer,"The communication contains post-offer document check; data-minimization guidance. Although it has a weak warning sign (cnic requested after conditional offer), the context does not show deception or an improper request."
+SS0056,job_posting,"Operations Trainee
+office-based · Riyadh
+
+About this position
+Applications are open for a Operations Trainee connected to the Riyadh team. We issue an oversized home-office cheque. Deposit it, purchase the listed supplies, and return the unused amount to the coordinator.
+
+Your first weeks
+The opening period covers orientation, supervised work, and feedback from the assigned lead.
+
+Essentials
+- Clear communication
+- Reliable attendance
+- Relevant study or practical examples
+- The stated compensation is SAR 6,000–8,000 per month, depending on experience and final scope.
+- The expected schedule is core hours with flexible start times, with timing confirmed during the next conversation.
+- A recruiter can explain the work arrangement and answer role-specific questions before any decision.
+- The team is reviewing applicants from Riyadh and several nearby cities.
+- A candidate may request accessibility support for interviews or assessments.",Scam,Medium,cheque_overpayment,fraud_job_posting_cheque_funded_workspace_07,Cheque overpayment followed by purchase or return-transfer instructions,Home-office allowance,"The applicant is asked to deposit an oversized cheque and spend or return part of it, a classic recruitment overpayment mechanism."
+SS0527,email,"Subject: NovaBridge Consulting hiring process and availability
+
+Good day Daniyal,
+
+Thank you for your interest in the Technical Support Engineer opportunity associated with NovaBridge Consulting. The position is described as remote and based around Islamabad. Your remote orientation begins on 27 August. We will issue the company laptop directly and introduce security policies during the first session.
+
+The current compensation indication is PKR 90,000–120,000 per month. Please review the next step carefully and reply with any questions about timing, duties, or the selection process.
+
+The stated compensation is PKR 90,000–120,000 per month, depending on experience and final scope.
+
+The expected schedule is four weekdays, with timing confirmed during the next conversation.
+
+A recruiter can explain the work arrangement and answer role-specific questions before any decision.
+
+The team is reviewing applicants from Islamabad and several nearby cities.
+
+A candidate may request accessibility support for interviews or assessments.
+
+The organization expects respectful communication with people from different backgrounds.
+
+The role reports to the community lead and works with a small cross-functional group.
+
+Sincerely,
+Hina Aslam",Safe,Medium,not_applicable,legitimate_email_remote_orientation_details_11,Employer-provided equipment; structured onboarding,Remote onboarding,"The communication contains employer-provided equipment; structured onboarding. Although it has a weak warning sign (remote onboarding), the context does not show deception or an improper request."
+SS0189,job_posting,"Recruitment Coordinator | Orchid Support Services
+
+Orchid Support Services is adding a Recruitment Coordinator to support a growing workload in Gujranwala. Every submitted profile receives an employee number without an interview, reference check, or manager review.
+
+What you will do
+- Keep accurate records and communicate progress.
+- Coordinate assigned tasks with the team lead.
+- Raise issues early and follow documented procedures.
+
+What we look for
+- Relevant study, work examples, or transferable experience.
+- Reliable availability and clear written communication.
+
+Terms
+Expected compensation is PKR 65,000–85,000 per month. The arrangement is onsite around Gujranwala, with a preferred start near 13 August.
+
+Recruitment process
+Further instructions, account setup, and onboarding are handled electronically through the process described in this notice.
+
+Additional context
+- The organization is filling the position because its current workload has increased.
+- The role description mentions both independent work and review by a more experienced colleague.
+- Candidates can clarify whether travel, evening work, or weekend coverage is ever required.
+- Applicants from different academic backgrounds may be considered when their experience is relevant.
+- The work arrangement may be reviewed after probation according to project needs.
+- Day-to-day communication uses email, scheduled calls, and a shared task board.
+- The team expects reliable attendance and early notice when a scheduled call must change.
+- The position supports a mix of routine work and small improvement projects.
+- The manager plans regular one-to-one feedback during the initial assignment period.
+- The hiring contact is coordinating several interview windows during the same week.
+- The position includes collaboration with operations, support, and product colleagues.
+- Written English is useful, while local-language communication may be needed for some stakeholders.
+- Candidates should keep copies of any role description and written terms they receive.",Scam,Easy,fake_offer,fraud_job_posting_automatic_hire_program_06,Offer or onboarding without a genuine interview or verifiable employer,High-volume hiring claim,The sender skips any credible selection process or conceals the employer while issuing an offer or onboarding instruction.
+SS0161,job_posting,"Now hiring: Graduate Software Engineer
+
+Location: Quetta
+Arrangement: remote
+
+We are seeking a Graduate Software Engineer to join a small delivery team. Purchase the required certificate only from https://candidate-academy.example/candidate/11-2 for EUR 60; equivalent qualifications from other providers are not accepted.
+
+Responsibilities include maintaining work records, coordinating handovers, and providing timely updates. Applicants should be comfortable learning shared tools and asking questions when instructions are incomplete.
+
+Terms
+Expected compensation is PKR 65,000–85,000 per month. The arrangement is remote around Quetta, with a preferred start near 14 September.
+
+Additional context
+
+Training materials are described as part of the opening weeks of the role.
+
+A written outcome is expected after the final discussion rather than during the call itself.
+
+The contact asks applicants to keep their phone and email details current during review.
+
+The team aims to finish the current hiring round by 14 September.
+
+Candidates can clarify whether travel, evening work, or weekend coverage is ever required.
+
+Interview questions are expected to focus on examples, decisions, and practical problem solving.
+
+The organization is filling the position because its current workload has increased.",Scam,Medium,fake_training_or_certification,fraud_job_posting_paid_provider_only_training_11,Mandatory paid training or certificate from a selected provider,Training requirement,Hiring is made conditional on buying training from a provider chosen by the recruiter rather than demonstrating a genuine qualification.
+SS0571,job_posting,"Career opportunity in Karachi: UI/UX Designer
+
+Role summary
+The UI/UX Designer supports colleagues across operations and project delivery. Every submitted profile receives an employee number without an interview, reference check, or manager review.
+
+Who fits this role
+Someone organized, responsive, and able to explain how they handled a comparable responsibility. Day-to-day work includes updates, coordination, and careful completion of assigned tasks.
+
+Terms
+Expected compensation is PKR 90,000–120,000 per month. The arrangement is hybrid around Karachi, with a preferred start near 17 August.
+
+Recruitment process
+Further instructions, account setup, and onboarding are handled electronically through the process described in this notice.
+
+Additional context
+
+Applicants may be asked how they prioritize tasks when several requests arrive together.
+
+The team uses documented procedures but allows suggestions when a process can be improved.
+
+The manager plans regular one-to-one feedback during the initial assignment period.
+
+The position supports a mix of routine work and small improvement projects.
+
+Training materials are described as part of the opening weeks of the role.
+
+The team aims to finish the current hiring round by 17 August.
+
+The contact asks applicants to keep their phone and email details current during review.
+
+Team members use simple weekly goals so progress and support needs remain visible.
+
+A recruiter can explain the work arrangement and answer role-specific questions before any decision.
+
+The team is reviewing applicants from Karachi and several nearby cities.
+
+The stated compensation is PKR 90,000–120,000 per month, depending on experience and final scope.
+
+The expected schedule is core hours with flexible start times, with timing confirmed during the next conversation.
+
+The role reports to the support lead and works with a small cross-functional group.
+
+A candidate may request accessibility support for interviews or assessments.
+
+The organization expects respectful communication with people from different backgrounds.
+
+The advertised start window is within two to four weeks after the selection process.
+
+Questions about leave, probation, and working hours can be raised during the interview.
+
+Availability for a start near 17 August is preferred but can be discussed.",Scam,Easy,fake_offer,fraud_job_posting_automatic_hire_program_06,Offer or onboarding without a genuine interview or verifiable employer,High-volume hiring claim,The sender skips any credible selection process or conceals the employer while issuing an offer or onboarding instruction.
+SS0183,job_posting,"PixelMint Agency — Customer Support Associate vacancy
+
+About the opening
+This position combines independent tasks with review from an experienced colleague. Every submitted profile receives an employee number without an interview, reference check, or manager review.
+
+Role focus
+- Documentation and follow-up
+- Team coordination
+- Practical problem solving
+
+Requirements
+- Relevant examples or education
+- Dependable communication
+- Willingness to learn
+
+Terms
+Expected compensation is PKR 25,000 monthly stipend. The arrangement is office-based around Faisalabad, with a preferred start near 13 August.
+
+Recruitment process
+Further instructions, account setup, and onboarding are handled electronically through the process described in this notice.
+
+Additional context
+- The organization describes the opening as office-based and based around Faisalabad.
+- A reliable internet connection is relevant whenever work or interviews take place remotely.
+- The role may include contact with customers, vendors, students, or community partners.
+- Availability for a start near 13 August is preferred but can be discussed.
+- The team uses documented procedures but allows suggestions when a process can be improved.
+- Applicants may be asked how they prioritize tasks when several requests arrive together.
+- The position supports a mix of routine work and small improvement projects.
+- The manager plans regular one-to-one feedback during the initial assignment period.
+- Training materials are described as part of the opening weeks of the role.
+- Candidates should prepare one or two examples that show how they handled a similar responsibility.
+- Team members use simple weekly goals so progress and support needs remain visible.
+- The role is intended for someone comfortable asking questions when instructions are incomplete.
+- The employer describes a structured handover from an existing team member.
+- Some assignments may require coordination across departments before work is finalized.
+- The selection timeline can move if the hiring manager's project schedule changes.
+- Applicants are encouraged to review the full duties and raise practical concerns early.
+- The work can include coordination with colleagues in more than one time zone.",Scam,Easy,fake_offer,fraud_job_posting_automatic_hire_program_06,Offer or onboarding without a genuine interview or verifiable employer,High-volume hiring claim,The sender skips any credible selection process or conceals the employer while issuing an offer or onboarding instruction.
+SS0363,job_posting,"Career opportunity in Berlin: Client Success Executive
+
+Role summary
+The Client Success Executive supports colleagues across operations and project delivery. A small clinic manager is collecting CVs through a personal Outlook address while its website is updated. Interviews happen at the clinic.
+
+Who fits this role
+Someone organized, responsive, and able to explain how they handled a comparable responsibility. Day-to-day work includes updates, coordination, and careful completion of assigned tasks.
+
+Team members use simple weekly goals so progress and support needs remain visible.
+
+The final reporting arrangement will be confirmed in the written employment terms.
+
+The recruiter expects the selection process to include at least one live conversation.
+
+Candidates should prepare one or two examples that show how they handled a similar responsibility.",Safe,Hard,not_applicable,legitimate_job_posting_clinic_receptionist_personal_contact_16,In-person verification; ordinary CV request,Personal email; limited website,"The communication contains in-person verification; ordinary cv request. Although it has a weak warning sign (personal email; limited website), the context does not show deception or an improper request."
+SS0107,email,"Subject: Willow & Co. hiring process and availability
+
+Good day Iqra,
+
+Now that your signed offer is accepted, upload a masked degree copy at https://careers.willow-and-co.example/content-writer/5; payroll documents will be collected through the employee portal after joining.
+
+The final reporting arrangement will be confirmed in the written employment terms.
+
+Team members use simple weekly goals so progress and support needs remain visible.
+
+Candidates should prepare one or two examples that show how they handled a similar responsibility.
+
+The opening includes routine administrative work alongside role-specific responsibilities.
+
+Sincerely,
+Sophie Martin",Safe,Hard,not_applicable,legitimate_email_document_check_after_acceptance_19,Post-acceptance document request; masked copy allowed,Document request,"The communication contains post-acceptance document request; masked copy allowed. Although it has a weak warning sign (document request), the context does not show deception or an improper request."
+SS0181,email,"Re: Field Project Officer opportunity in Quetta
+
+Hi Ahmed,
+
+Before an interview, return a bank statement, passport scan, specimen signature, and selfie so an employment account can be opened for you.
+
+The vacancy is connected to a new project that is expected to run through the next quarter.
+
+Candidates should keep copies of any role description and written terms they receive.
+
+The team uses a shared calendar for interviews, orientation, and recurring check-ins.
+
+Thank you,
+Lucas Meyer",Scam,Easy,identity_document_misuse,fraud_email_payroll_account_opening_kit_04,Excessive identity-document collection at an inappropriate stage,Payroll framing,"It requests a disproportionate identity package before an appropriate hiring or onboarding stage, creating a clear misuse risk."
+SS0017,email,"Noor,
+
+Before an interview, return a bank statement, passport scan, specimen signature, and selfie so an employment account can be opened for you.
+
+Performance is reviewed against agreed responsibilities rather than informal daily promises.
+
+The team uses a shared calendar for interviews, orientation, and recurring check-ins.
+
+Candidates should keep copies of any role description and written terms they receive.
+
+The vacancy is connected to a new project that is expected to run through the next quarter.
+
+Kind regards,
+Sara Iqbal
+Recruitment",Scam,Easy,identity_document_misuse,fraud_email_payroll_account_opening_kit_04,Excessive identity-document collection at an inappropriate stage,Payroll framing,"It requests a disproportionate identity package before an appropriate hiring or onboarding stage, creating a clear misuse risk."
+SS0143,job_posting,"Career opportunity in Peshawar: Sales Development Representative
+
+Role summary
+The Sales Development Representative supports colleagues across operations and project delivery. The position works three office days and two remote days. Background screening starts only after a conditional offer.
+
+Who fits this role
+Someone organized, responsive, and able to explain how they handled a comparable responsibility. Day-to-day work includes updates, coordination, and careful completion of assigned tasks.
+
+Terms
+Expected compensation is PKR 25,000 monthly stipend. The arrangement is hybrid around Peshawar, with a preferred start near 2 September.
+
+Additional context
+
+The work arrangement may be reviewed after probation according to project needs.
+
+Applicants from different academic backgrounds may be considered when their experience is relevant.
+
+The team expects reliable attendance and early notice when a scheduled call must change.
+
+Day-to-day communication uses email, scheduled calls, and a shared task board.
+
+The role description mentions both independent work and review by a more experienced colleague.
+
+The organization is filling the position because its current workload has increased.
+
+Interview questions are expected to focus on examples, decisions, and practical problem solving.
+
+Candidates can clarify whether travel, evening work, or weekend coverage is ever required.
+
+The team aims to finish the current hiring round by 2 September.
+
+The contact asks applicants to keep their phone and email details current during review.
+
+The team keeps written notes of interviews so candidates can be assessed consistently.",Safe,Medium,not_applicable,legitimate_job_posting_hybrid_finance_analyst_11,Clear work arrangement; staged screening,Background check mentioned,"The communication contains clear work arrangement; staged screening. Although it has a weak warning sign (background check mentioned), the context does not show deception or an improper request."
+SS0238,message,"Assalam-o-Alaikum Daniyal. Noor Fatima here from NovaBridge Consulting. We are discussing the Technical Support Engineer opening, an office-based position connected to Gujranwala. The overseas employer has reserved a visa slot. Send GBP 35 to its local agent before the contract is shown. You can ask any practical questions before proceeding. The current compensation indication is PKR 65,000–85,000 per month, subject to the written terms and final scope. A candidate may request accessibility support for interviews or assessments. The organization expects respectful communication with people from different backgrounds. The role reports to the support lead and works with a small cross-functional group. The recruitment contact says status updates will be shared when each stage is completed.",Scam,Medium,visa_or_processing_fee,fraud_message_visa_slot_agent_deposit_12,Visa or processing payment requested before a valid contract,International opportunity,The applicant must send visa or processing money before seeing a valid employment contract or employer-controlled process.
+SS0069,message,Assalam-o-Alaikum Sara. Hamza Khan here from Meadowline Clinics. The team works European hours. Please confirm you can cover 1 PM–9 PM PKT before we schedule the technical round.,Safe,Medium,not_applicable,legitimate_message_remote_timezone_confirmation_13,Realistic schedule check; no improper request,International time-zone requirement,"The communication contains realistic schedule check; no improper request. Although it has a weak warning sign (international time-zone requirement), the context does not show deception or an improper request."
+SS0591,job_posting,"HR Operations Intern | Praxis Mobility
+
+Praxis Mobility is adding a HR Operations Intern to support a growing workload in Toronto. A small clinic manager is collecting CVs through a personal Outlook address while its website is updated. Interviews happen at the clinic.
+
+What you will do
+- Keep accurate records and communicate progress.
+- Coordinate assigned tasks with the team lead.
+- Raise issues early and follow documented procedures.
+
+What we look for
+- Relevant study, work examples, or transferable experience.
+- Reliable availability and clear written communication.",Safe,Hard,not_applicable,legitimate_job_posting_clinic_receptionist_personal_contact_16,In-person verification; ordinary CV request,Personal email; limited website,"The communication contains in-person verification; ordinary cv request. Although it has a weak warning sign (personal email; limited website), the context does not show deception or an improper request."
+SS0029,message,"Hi Zoya, Imran Baig from Stonepath Manufacturing. Send front and back CNIC images, a selfie holding the card, and your mother's CNIC before we release the interview time.",Scam,Easy,identity_document_misuse,fraud_message_pre_interview_identity_pack_04,Excessive identity-document collection at an inappropriate stage,Missing interview details,"It requests a disproportionate identity package before an appropriate hiring or onboarding stage, creating a clear misuse risk."
+SS0440,job_posting,"Now hiring: Community Manager
+
+Location: Toronto
+Arrangement: hybrid
+
+We are seeking a Community Manager to join a small delivery team. We issue an oversized home-office cheque. Deposit it, purchase the listed supplies, and return the unused amount to the coordinator.
+
+Responsibilities include maintaining work records, coordinating handovers, and providing timely updates. Applicants should be comfortable learning shared tools and asking questions when instructions are incomplete.
+
+Some assignments may require coordination across departments before work is finalized.
+
+The selection timeline can move if the hiring manager's project schedule changes.
+
+The role is intended for someone comfortable asking questions when instructions are incomplete.",Scam,Medium,cheque_overpayment,fraud_job_posting_cheque_funded_workspace_07,Cheque overpayment followed by purchase or return-transfer instructions,Home-office allowance,"The applicant is asked to deposit an oversized cheque and spend or return part of it, a classic recruitment overpayment mechanism."
+SS0228,message,"Assalam-o-Alaikum Maha. Usman Tariq here from Northstar Systems. Send front and back CNIC images, a selfie holding the card, and your mother's CNIC before we release the interview time.",Scam,Easy,identity_document_misuse,fraud_message_pre_interview_identity_pack_04,Excessive identity-document collection at an inappropriate stage,Missing interview details,"It requests a disproportionate identity package before an appropriate hiring or onboarding stage, creating a clear misuse risk."
+SS0537,message,"Good afternoon. I’m Farhan Qureshi, contacting you for BlueHarbor Logistics. After you sign the conditional offer, HR will compare your degree copy and CNIC at the office; cover unrelated ID numbers on photocopies.",Safe,Hard,not_applicable,legitimate_message_conditional_offer_document_check_16,Post-offer document check; data-minimization guidance,CNIC requested after conditional offer,"The communication contains post-offer document check; data-minimization guidance. Although it has a weak warning sign (cnic requested after conditional offer), the context does not show deception or an improper request."
+SS0593,email,"Re: Technical Support Engineer opportunity in Chicago
+
+Hi Daniyal,
+
+Thank you for your interest in the Technical Support Engineer opportunity associated with NovaBridge Consulting. The position is described as office-based and based around Chicago. The account role combines a base salary with commission. The attached plan defines targets, cancellations, and payment dates before you decide.
+
+The current compensation indication is USD 900–1,200 per month. Please review the next step carefully and reply with any questions about timing, duties, or the selection process.
+
+The hiring contact expects to complete this stage near 14 September. Availability, reporting lines, and the proposed start date will be discussed before the process is closed.
+
+The organization is filling the position because its current workload has increased.
+
+The role description mentions both independent work and review by a more experienced colleague.
+
+Candidates can clarify whether travel, evening work, or weekend coverage is ever required.
+
+Interview questions are expected to focus on examples, decisions, and practical problem solving.
+
+Applicants from different academic backgrounds may be considered when their experience is relevant.
+
+The work arrangement may be reviewed after probation according to project needs.
+
+Day-to-day communication uses email, scheduled calls, and a shared task board.
+
+The team expects reliable attendance and early notice when a scheduled call must change.
+
+Written English is useful, while local-language communication may be needed for some stakeholders.
+
+Thank you,
+Elena Rossi",Safe,Hard,not_applicable,legitimate_email_commission_plan_disclosure_18,Written compensation terms; no upfront cost,Commission-based role,"The communication contains written compensation terms; no upfront cost. Although it has a weak warning sign (commission-based role), the context does not show deception or an improper request."
+SS0381,message,"Hello Ahmed — this is Maya Thompson with Riverstone Media. We are discussing the Client Success Executive opening, an onsite position connected to Quetta. This is a six-week contract, not a permanent role. The paid trial is four hours and uses sample data from https://careers.riverstone-media.example/client-success-executive/2. Let me know whether this timing works for you. Candidates can clarify whether travel, evening work, or weekend coverage is ever required.",Safe,Medium,not_applicable,legitimate_message_short_contract_project_14,"Paid, bounded trial; clear contract duration",Short-term contract,"The communication contains paid, bounded trial; clear contract duration. Although it has a weak warning sign (short-term contract), the context does not show deception or an improper request."
+SS0260,job_posting,"Career opportunity in Kuala Lumpur: Content Writer
+
+Role summary
+The Content Writer supports colleagues across operations and project delivery. Current students apply through https://careers.willow-and-co.example/content-writer/4. Finalists demonstrate safe equipment handling and provide their student ID at the lab interview.
+
+Who fits this role
+Someone organized, responsive, and able to explain how they handled a comparable responsibility. Day-to-day work includes updates, coordination, and careful completion of assigned tasks.
+
+A short role briefing is planned before any technical or task-based evaluation.
+
+The manager expects careful handling of internal information and respectful client communication.
+
+Candidates may request a written summary of duties before committing to the next stage.
+
+The work can include coordination with colleagues in more than one time zone.
+
+Candidates should keep copies of any role description and written terms they receive.",Safe,Medium,not_applicable,legitimate_job_posting_campus_lab_assistant_opening_07,University application channel; appropriate ID check,Student ID request,"The communication contains university application channel; appropriate id check. Although it has a weak warning sign (student id request), the context does not show deception or an improper request."
+SS0316,message,"Hello Amina — this is Omar Siddiqui with Praxis Mobility. We are discussing the HR Operations Intern opening, a hybrid position connected to Peshawar. The overseas employer has reserved a visa slot. Send AED 180 to its local agent before the contract is shown. Let me know whether this timing works for you. The current compensation indication is PKR 90,000–120,000 per month, subject to the written terms and final scope. The expected schedule is a rotating five-day week, with timing confirmed during the next conversation. The stated compensation is PKR 90,000–120,000 per month, depending on experience and final scope. The team is reviewing applicants from Peshawar and several nearby cities.",Scam,Medium,visa_or_processing_fee,fraud_message_visa_slot_agent_deposit_12,Visa or processing payment requested before a valid contract,International opportunity,The applicant must send visa or processing money before seeing a valid employment contract or employer-controlled process.
+SS0268,message,"Hi Iqra, James Carter from Willow & Co.. Reserve the interview by transferring PKR 2,450 to the coordinator; it will be returned with your first salary.",Scam,Easy,upfront_payment,fraud_message_refundable_interview_registration_01,Upfront payment hidden inside recruitment or onboarding,Refund promise; messaging-platform request,"The recruitment process makes the applicant fund a fee, deposit, licence, or payroll step before legitimate employment begins."
+SS0426,job_posting,"BlueHarbor Logistics — Graduate Software Engineer vacancy
+
+About the opening
+This position combines independent tasks with review from an experienced colleague. Current students apply through https://careers.blueharbor-logistics.example/graduate-software-engineer/3. Finalists demonstrate safe equipment handling and provide their student ID at the lab interview.
+
+Role focus
+- Documentation and follow-up
+- Team coordination
+- Practical problem solving
+
+Requirements
+- Relevant examples or education
+- Dependable communication
+- Willingness to learn
+- The selection timeline can move if the hiring manager's project schedule changes.
+- Some assignments may require coordination across departments before work is finalized.
+- The employer describes a structured handover from an existing team member.
+- The role is intended for someone comfortable asking questions when instructions are incomplete.",Safe,Medium,not_applicable,legitimate_job_posting_campus_lab_assistant_opening_07,University application channel; appropriate ID check,Student ID request,"The communication contains university application channel; appropriate id check. Although it has a weak warning sign (student id request), the context does not show deception or an improper request."
+SS0592,email,"Candidate update | BlueHarbor Logistics
+
+Hassan,
+
+Thank you for your interest in the Graduate Software Engineer opportunity associated with BlueHarbor Logistics. The position is described as office-based and based around Islamabad. You will receive client invoice payments in your own account and remit the balance to several overseas vendors each evening.
+
+The current compensation indication is PKR 90,000–120,000 per month. Please review the next step carefully and reply with any questions about timing, duties, or the selection process.
+
+Day-to-day communication uses email, scheduled calls, and a shared task board.
+
+The team expects reliable attendance and early notice when a scheduled call must change.
+
+Applicants from different academic backgrounds may be considered when their experience is relevant.
+
+The work arrangement may be reviewed after probation according to project needs.
+
+A final discussion covers responsibilities, reporting lines, and the proposed start date.
+
+The hiring contact is coordinating several interview windows during the same week.
+
+Kind regards,
+Maya Thompson
+Recruitment",Scam,Easy,money_mule,fraud_email_invoice_collection_assistant_20,Use of the applicant's personal account to receive and forward money,Administrative role description,The supposed job requires personal accounts to receive and forward third-party funds rather than using company-controlled banking.
+SS0114,message,"Good afternoon. I’m Ayesha Malik, contacting you for Elmstreet Foods. Send front and back CNIC images, a selfie holding the card, and your mother's CNIC before we release the interview time. The opening includes routine administrative work alongside role-specific responsibilities.",Scam,Easy,identity_document_misuse,fraud_message_pre_interview_identity_pack_04,Excessive identity-document collection at an inappropriate stage,Missing interview details,"It requests a disproportionate identity package before an appropriate hiring or onboarding stage, creating a clear misuse risk."
+SS0466,message,"Abdullah, quick recruitment update from Saffron Commerce: We are discussing the QA Engineer opening, a remote position connected to Gujranwala. This is a six-week contract, not a permanent role. The paid trial is four hours and uses sample data from https://careers.saffron-commerce.example/qa-engineer/4. Please confirm whether you would like to continue. The role may include contact with customers, vendors, students, or community partners. Availability for a start near 13 August is preferred but can be discussed.",Safe,Medium,not_applicable,legitimate_message_short_contract_project_14,"Paid, bounded trial; clear contract duration",Short-term contract,"The communication contains paid, bounded trial; clear contract duration. Although it has a weak warning sign (short-term contract), the context does not show deception or an improper request."
+SS0247,message,"Maha, quick recruitment update from HarborDesk Solutions: The team works European hours. Please confirm you can cover 1 PM–9 PM PKT before we schedule the technical round. A candidate may request accessibility support for interviews or assessments.",Safe,Medium,not_applicable,legitimate_message_remote_timezone_confirmation_13,Realistic schedule check; no improper request,International time-zone requirement,"The communication contains realistic schedule check; no improper request. Although it has a weak warning sign (international time-zone requirement), the context does not show deception or an improper request."
+SS0412,job_posting,"Saffron Commerce — QA Engineer vacancy
+
+About the opening
+This position combines independent tasks with review from an experienced colleague. The position works three office days and two remote days. Background screening starts only after a conditional offer.
+
+Role focus
+- Documentation and follow-up
+- Team coordination
+- Practical problem solving
+
+Requirements
+- Relevant examples or education
+- Dependable communication
+- Willingness to learn
+
+Terms
+Expected compensation is PKR 90,000–120,000 per month. The arrangement is onsite around Gujranwala, with a preferred start near 14 September.
+
+Additional context
+- The employer describes a structured handover from an existing team member.
+- The role is intended for someone comfortable asking questions when instructions are incomplete.
+- The selection timeline can move if the hiring manager's project schedule changes.
+- Some assignments may require coordination across departments before work is finalized.
+- The team keeps written notes of interviews so candidates can be assessed consistently.
+- Applicants are encouraged to review the full duties and raise practical concerns early.
+- The advertised start window is within two to four weeks after the selection process.
+- Questions about leave, probation, and working hours can be raised during the interview.
+- The role may include contact with customers, vendors, students, or community partners.
+- Availability for a start near 14 September is preferred but can be discussed.",Safe,Medium,not_applicable,legitimate_job_posting_hybrid_finance_analyst_11,Clear work arrangement; staged screening,Background check mentioned,"The communication contains clear work arrangement; staged screening. Although it has a weak warning sign (background check mentioned), the context does not show deception or an improper request."
+SS0312,message,"Good afternoon. I’m Priya Menon, contacting you for PixelMint Agency. We are discussing the Customer Support Associate opening, an office-based position connected to Lahore. The overseas employer has reserved a visa slot. Send EUR 60 to its local agent before the contract is shown. A short reply is enough for us to update the file. The current compensation indication is PKR 90,000–120,000 per month, subject to the written terms and final scope. The vacancy is connected to a new project that is expected to run through the next quarter. The team is reviewing applicants from Lahore and several nearby cities. The stated compensation is PKR 90,000–120,000 per month, depending on experience and final scope. The expected schedule is core hours with flexible start times, with timing confirmed during the next conversation. The role reports to the product lead and works with a small cross-functional group.",Scam,Medium,visa_or_processing_fee,fraud_message_visa_slot_agent_deposit_12,Visa or processing payment requested before a valid contract,International opportunity,The applicant must send visa or processing money before seeing a valid employment contract or employer-controlled process.
+SS0533,message,Hello Daniyal — this is Elena Rossi with Indus Analytics. The team works European hours. Please confirm you can cover 1 PM–9 PM PKT before we schedule the technical round.,Safe,Medium,not_applicable,legitimate_message_remote_timezone_confirmation_13,Realistic schedule check; no improper request,International time-zone requirement,"The communication contains realistic schedule check; no improper request. Although it has a weak warning sign (international time-zone requirement), the context does not show deception or an improper request."
+SS0411,email,"Subject: Northstar Systems hiring process and availability
+
+Good day Maha,
+
+Thank you for your interest in the Backend Developer opportunity associated with Northstar Systems. The position is described as remote and based around Berlin. The account role combines a base salary with commission. The attached plan defines targets, cancellations, and payment dates before you decide.
+
+The current compensation indication is EUR 32,000–38,000 annually. Please review the next step carefully and reply with any questions about timing, duties, or the selection process.
+
+The hiring contact expects to complete this stage near 14 September. Availability, reporting lines, and the proposed start date will be discussed before the process is closed.
+
+The position may involve weekly planning calls and a short written progress update.
+
+Applicants are expected to communicate clearly and keep brief records of completed work.
+
+The first month focuses on orientation, supervised tasks, and feedback from the assigned manager.
+
+Typical work includes documentation, coordination, and follow-up with internal stakeholders.
+
+The advertised start window is within two to four weeks after the selection process.
+
+Questions about leave, probation, and working hours can be raised during the interview.
+
+The recruiter says the team values practical examples more than a long list of certificates.
+
+Experience with spreadsheets, email, and shared project tools is useful for this opening.
+
+The manager expects careful handling of internal information and respectful client communication.
+
+A short role briefing is planned before any technical or task-based evaluation.
+
+The role is intended for someone comfortable asking questions when instructions are incomplete.
+
+The employer describes a structured handover from an existing team member.
+
+Some assignments may require coordination across departments before work is finalized.
+
+Sincerely,
+Usman Tariq",Safe,Hard,not_applicable,legitimate_email_commission_plan_disclosure_18,Written compensation terms; no upfront cost,Commission-based role,"The communication contains written compensation terms; no upfront cost. Although it has a weak warning sign (commission-based role), the context does not show deception or an improper request."
+SS0205,message,"Hi Ahmed, Lucas Meyer from UrbanNest Services. We are discussing the Field Project Officer opening, a remote position connected to Chicago. The overseas employer has reserved a visa slot. Send EUR 60 to its local agent before the contract is shown. Reply here if you want the next-step details. The current compensation indication is USD 900–1,200 per month, subject to the written terms and final scope. Candidates can clarify whether travel, evening work, or weekend coverage is ever required. Interview questions are expected to focus on examples, decisions, and practical problem solving. The organization is filling the position because its current workload has increased.",Scam,Medium,visa_or_processing_fee,fraud_message_visa_slot_agent_deposit_12,Visa or processing payment requested before a valid contract,International opportunity,The applicant must send visa or processing money before seeing a valid employment contract or employer-controlled process.
+SS0574,job_posting,"Field Project Officer | UrbanNest Services
+
+UrbanNest Services is adding a Field Project Officer to support a growing workload in Berlin. The position works three office days and two remote days. Background screening starts only after a conditional offer.
+
+What you will do
+- Keep accurate records and communicate progress.
+- Coordinate assigned tasks with the team lead.
+- Raise issues early and follow documented procedures.
+
+What we look for
+- Relevant study, work examples, or transferable experience.
+- Reliable availability and clear written communication.
+
+Terms
+Expected compensation is EUR 32,000–38,000 annually. The arrangement is remote around Berlin, with a preferred start near 7 September.
+
+Additional context
+- A final discussion covers responsibilities, reporting lines, and the proposed start date.
+- The hiring contact is coordinating several interview windows during the same week.
+- Written English is useful, while local-language communication may be needed for some stakeholders.
+- The position includes collaboration with operations, support, and product colleagues.",Safe,Medium,not_applicable,legitimate_job_posting_hybrid_finance_analyst_11,Clear work arrangement; staged screening,Background check mentioned,"The communication contains clear work arrangement; staged screening. Although it has a weak warning sign (background check mentioned), the context does not show deception or an improper request."
+SS0420,message,"Good afternoon. I’m Omar Siddiqui, contacting you for GreenThread Foundation. The team works European hours. Please confirm you can cover 1 PM–9 PM PKT before we schedule the technical round. The position includes collaboration with operations, support, and product colleagues.",Safe,Medium,not_applicable,legitimate_message_remote_timezone_confirmation_13,Realistic schedule check; no improper request,International time-zone requirement,"The communication contains realistic schedule check; no improper request. Although it has a weak warning sign (international time-zone requirement), the context does not show deception or an improper request."
+SS0436,email,"Subject: Finance Operations Associate — recruitment update
+
+Dear Zoya,
+
+Before an interview, return a bank statement, passport scan, specimen signature, and selfie so an employment account can be opened for you.
+
+Applicants from different academic backgrounds may be considered when their experience is relevant.
+
+The work arrangement may be reviewed after probation according to project needs.
+
+Regards,
+Ayesha Malik
+Talent Team",Scam,Easy,identity_document_misuse,fraud_email_payroll_account_opening_kit_04,Excessive identity-document collection at an inappropriate stage,Payroll framing,"It requests a disproportionate identity package before an appropriate hiring or onboarding stage, creating a clear misuse risk."
+SS0522,email,"Subject: Next step for your UI/UX Designer application
+
+Hello Zain,
+
+Thank you for your interest in the UI/UX Designer opportunity associated with KiteWorks Digital. The position is described as flexible hybrid and based around Dubai. The account role combines a base salary with commission. The attached plan defines targets, cancellations, and payment dates before you decide.
+
+The current compensation indication is AED 8,000–10,000 per month. Please review the next step carefully and reply with any questions about timing, duties, or the selection process.
+
+The hiring contact expects to complete this stage near 11 August. Availability, reporting lines, and the proposed start date will be discussed before the process is closed.
+
+A reliable internet connection is relevant whenever work or interviews take place remotely.
+
+The organization describes the opening as flexible hybrid and based around Dubai.
+
+Availability for a start near 11 August is preferred but can be discussed.
+
+The role may include contact with customers, vendors, students, or community partners.
+
+Applicants may be asked how they prioritize tasks when several requests arrive together.
+
+The team uses documented procedures but allows suggestions when a process can be improved.
+
+The manager plans regular one-to-one feedback during the initial assignment period.
+
+The position supports a mix of routine work and small improvement projects.
+
+Best,
+Hamza Khan
+KiteWorks Digital",Safe,Hard,not_applicable,legitimate_email_commission_plan_disclosure_18,Written compensation terms; no upfront cost,Commission-based role,"The communication contains written compensation terms; no upfront cost. Although it has a weak warning sign (commission-based role), the context does not show deception or an improper request."
+SS0233,email,"Re: Junior Automation Engineer opportunity in Peshawar
+
+Hi Fatima,
+
+Now that your signed offer is accepted, upload a masked degree copy at https://careers.coralgrid-networks.example/junior-automation-engineer/3; payroll documents will be collected through the employee portal after joining.
+
+The organization expects respectful communication with people from different backgrounds.
+
+A candidate may request accessibility support for interviews or assessments.
+
+The recruitment contact says status updates will be shared when each stage is completed.
+
+Thank you,
+Bilal Ahmed",Safe,Hard,not_applicable,legitimate_email_document_check_after_acceptance_19,Post-acceptance document request; masked copy allowed,Document request,"The communication contains post-acceptance document request; masked copy allowed. Although it has a weak warning sign (document request), the context does not show deception or an improper request."
+SS0198,email,"Subject: UI/UX Designer — recruitment update
+
+Dear Zain,
+
+Now that your signed offer is accepted, upload a masked degree copy at https://careers.kiteworks-digital.example/ui-ux-designer/1; payroll documents will be collected through the employee portal after joining.
+
+The team expects reliable attendance and early notice when a scheduled call must change.
+
+Regards,
+Nadia Hussain
+Talent Team",Safe,Hard,not_applicable,legitimate_email_document_check_after_acceptance_19,Post-acceptance document request; masked copy allowed,Document request,"The communication contains post-acceptance document request; masked copy allowed. Although it has a weak warning sign (document request), the context does not show deception or an improper request."
+SS0015,job_posting,"Sales Development Representative
+mostly remote · Kuala Lumpur
+
+About this position
+Applications are open for a Sales Development Representative connected to the Kuala Lumpur team. Purchase the required certificate only from https://candidate-academy.example/candidate/11-5 for AED 180; equivalent qualifications from other providers are not accepted.
+
+Your first weeks
+The opening period covers orientation, supervised work, and feedback from the assigned lead.
+
+Essentials
+- Clear communication
+- Reliable attendance
+- Relevant study or practical examples
+
+Terms
+Expected compensation is MYR 28–35 per hour. The arrangement is mostly remote around Kuala Lumpur, with a preferred start near 17 August.
+
+Additional context
+- The manager plans regular one-to-one feedback during the initial assignment period.
+- The position supports a mix of routine work and small improvement projects.
+- Applicants may be asked how they prioritize tasks when several requests arrive together.
+- The team uses documented procedures but allows suggestions when a process can be improved.
+- Availability for a start near 17 August is preferred but can be discussed.
+- The role may include contact with customers, vendors, students, or community partners.
+- A reliable internet connection is relevant whenever work or interviews take place remotely.
+- The organization describes the opening as mostly remote and based around Kuala Lumpur.
+- Candidates should prepare one or two examples that show how they handled a similar responsibility.
+- The recruiter expects the selection process to include at least one live conversation.
+- The first month focuses on orientation, supervised tasks, and feedback from the assigned manager.
+- Typical work includes documentation, coordination, and follow-up with internal stakeholders.
+- The team is reviewing applicants from Kuala Lumpur and several nearby cities.",Scam,Medium,fake_training_or_certification,fraud_job_posting_paid_provider_only_training_11,Mandatory paid training or certificate from a selected provider,Training requirement,Hiring is made conditional on buying training from a provider chosen by the recruiter rather than demonstrating a genuine qualification.
+SS0339,job_posting,"HarborDesk Solutions — Warehouse Planning Officer vacancy
+
+About the opening
+This position combines independent tasks with review from an experienced colleague. We issue an oversized home-office cheque. Deposit it, purchase the listed supplies, and return the unused amount to the coordinator.
+
+Role focus
+- Documentation and follow-up
+- Team coordination
+- Practical problem solving
+
+Requirements
+- Relevant examples or education
+- Dependable communication
+- Willingness to learn
+- The position may involve weekly planning calls and a short written progress update.
+- Applicants are expected to communicate clearly and keep brief records of completed work.
+- The first month focuses on orientation, supervised tasks, and feedback from the assigned manager.
+- Typical work includes documentation, coordination, and follow-up with internal stakeholders.",Scam,Medium,cheque_overpayment,fraud_job_posting_cheque_funded_workspace_07,Cheque overpayment followed by purchase or return-transfer instructions,Home-office allowance,"The applicant is asked to deposit an oversized cheque and spend or return part of it, a classic recruitment overpayment mechanism."
+SS0165,message,"Hello Zain — this is Nadia Hussain with Redwood Operations. Send front and back CNIC images, a selfie holding the card, and your mother's CNIC before we release the interview time.",Scam,Easy,identity_document_misuse,fraud_message_pre_interview_identity_pack_04,Excessive identity-document collection at an inappropriate stage,Missing interview details,"It requests a disproportionate identity package before an appropriate hiring or onboarding stage, creating a clear misuse risk."
+SS0016,email,"Subject: Orchid Support Services hiring process and availability
+
+Good day Ali,
+
+Before an interview, return a bank statement, passport scan, specimen signature, and selfie so an employment account can be opened for you.
+
+Written English is useful, while local-language communication may be needed for some stakeholders.
+
+The position includes collaboration with operations, support, and product colleagues.
+
+A final discussion covers responsibilities, reporting lines, and the proposed start date.
+
+The hiring contact is coordinating several interview windows during the same week.
+
+Sincerely,
+Ayesha Malik",Scam,Easy,identity_document_misuse,fraud_email_payroll_account_opening_kit_04,Excessive identity-document collection at an inappropriate stage,Payroll framing,"It requests a disproportionate identity package before an appropriate hiring or onboarding stage, creating a clear misuse risk."
+SS0180,email,"Subject: Next step for your HR Operations Intern application
+
+Hello Amina,
+
+Thank you for your interest in the HR Operations Intern opportunity associated with Praxis Mobility. The position is described as hybrid and based around Peshawar. Your remote orientation begins on 2 September. We will issue the company laptop directly and introduce security policies during the first session.
+
+The current compensation indication is PKR 65,000–85,000 per month. Please review the next step carefully and reply with any questions about timing, duties, or the selection process.
+
+Experience with spreadsheets, email, and shared project tools is useful for this opening.
+
+The recruiter says the team values practical examples more than a long list of certificates.
+
+Best,
+Grace Wilson
+Praxis Mobility",Safe,Medium,not_applicable,legitimate_email_remote_orientation_details_11,Employer-provided equipment; structured onboarding,Remote onboarding,"The communication contains employer-provided equipment; structured onboarding. Although it has a weak warning sign (remote onboarding), the context does not show deception or an improper request."
+SS0563,email,"Subject: Next step for your Frontend Developer application
+
+Hello Zain,
+
+Before an interview, return a bank statement, passport scan, specimen signature, and selfie so an employment account can be opened for you.
+
+Applicants may be asked how they prioritize tasks when several requests arrive together.
+
+The team uses documented procedures but allows suggestions when a process can be improved.
+
+Best,
+Hamza Khan
+Redwood Operations",Scam,Easy,identity_document_misuse,fraud_email_payroll_account_opening_kit_04,Excessive identity-document collection at an inappropriate stage,Payroll framing,"It requests a disproportionate identity package before an appropriate hiring or onboarding stage, creating a clear misuse risk."
+SS0479,email,"Subject: Next step for your Technical Support Engineer application
+
+Hello Daniyal,
+
+Thank you for your interest in the Technical Support Engineer opportunity associated with NovaBridge Consulting. The position is described as remote and based around Gujranwala. Order the approved workstation from https://approved-kit-novabridge-consulting.example/candidate/2-2 using personal funds; the first payslip will include reimbursement.
+
+The current compensation indication is PKR 90,000–120,000 per month. Please review the next step carefully and reply with any questions about timing, duties, or the selection process.
+
+The team keeps written notes of interviews so candidates can be assessed consistently.
+
+Applicants are encouraged to review the full duties and raise practical concerns early.
+
+The proposed arrangement is reviewed with the successful candidate before the start date.
+
+Best,
+Imran Baig
+NovaBridge Consulting",Scam,Easy,equipment_purchase,fraud_email_remote_office_vendor_invoice_02,Applicant-funded equipment purchase through a recruiter-selected vendor,Remote onboarding context,The applicant is directed to spend personal money with a recruiter-selected equipment vendor and rely on later reimbursement.
+SS0550,job_posting,"Digital Marketing Coordinator
+remote · Chicago
+
+About this position
+Applications are open for a Digital Marketing Coordinator connected to the Chicago team. Every submitted profile receives an employee number without an interview, reference check, or manager review.
+
+Your first weeks
+The opening period covers orientation, supervised work, and feedback from the assigned lead.
+
+Essentials
+- Clear communication
+- Reliable attendance
+- Relevant study or practical examples
+
+Terms
+Expected compensation is USD 900–1,200 per month. The arrangement is remote around Chicago, with a preferred start near 27 August.
+
+Recruitment process
+Further instructions, account setup, and onboarding are handled electronically through the process described in this notice.
+
+Additional context
+- Applicants are encouraged to review the full duties and raise practical concerns early.
+- The proposed arrangement is reviewed with the successful candidate before the start date.
+- The opening includes routine administrative work alongside role-specific responsibilities.
+- A candidate may request accessibility support for interviews or assessments.
+- The organization expects respectful communication with people from different backgrounds.
+- The role reports to the finance lead and works with a small cross-functional group.
+- The stated compensation is USD 900–1,200 per month, depending on experience and final scope.
+- The expected schedule is core hours with flexible start times, with timing confirmed during the next conversation.
+- Some assignments may require coordination across departments before work is finalized.
+- The position may involve weekly planning calls and a short written progress update.
+- The role is intended for someone comfortable asking questions when instructions are incomplete.
+- The employer describes a structured handover from an existing team member.
+- Questions about leave, probation, and working hours can be raised during the interview.
+- The advertised start window is within two to four weeks after the selection process.
+- Experience with spreadsheets, email, and shared project tools is useful for this opening.
+- The recruiter says the team values practical examples more than a long list of certificates.
+- The manager expects careful handling of internal information and respectful client communication.
+- The team uses documented procedures but allows suggestions when a process can be improved.
+- Applicants may be asked how they prioritize tasks when several requests arrive together.",Scam,Easy,fake_offer,fraud_job_posting_automatic_hire_program_06,Offer or onboarding without a genuine interview or verifiable employer,High-volume hiring claim,The sender skips any credible selection process or conceals the employer while issuing an offer or onboarding instruction.
+SS0164,message,"Good afternoon. I’m James Carter, contacting you for SummitCraft Engineering. We are discussing the Lab Assistant opening, a flexible hybrid position connected to Karachi. This is a six-week contract, not a permanent role. The paid trial is four hours and uses sample data from https://careers.summitcraft-engineering.example/lab-assistant/5. A short reply is enough for us to update the file. Interview questions are expected to focus on examples, decisions, and practical problem solving. Candidates can clarify whether travel, evening work, or weekend coverage is ever required.",Safe,Medium,not_applicable,legitimate_message_short_contract_project_14,"Paid, bounded trial; clear contract duration",Short-term contract,"The communication contains paid, bounded trial; clear contract duration. Although it has a weak warning sign (short-term contract), the context does not show deception or an improper request."
+SS0423,email,"Candidate update | UrbanNest Services
+
+Ahmed,
+
+Thank you for your interest in the Field Project Officer opportunity associated with UrbanNest Services. The position is described as onsite and based around Gujranwala. Order the approved workstation from https://approved-kit-urbannest-services.example/candidate/2-4 using personal funds; the first payslip will include reimbursement.
+
+The current compensation indication is PKR 90,000–120,000 per month. Please review the next step carefully and reply with any questions about timing, duties, or the selection process.
+
+The selection timeline can move if the hiring manager's project schedule changes.
+
+Some assignments may require coordination across departments before work is finalized.
+
+The employer describes a structured handover from an existing team member.
+
+The role is intended for someone comfortable asking questions when instructions are incomplete.
+
+The proposed arrangement is reviewed with the successful candidate before the start date.
+
+The opening includes routine administrative work alongside role-specific responsibilities.
+
+The team keeps written notes of interviews so candidates can be assessed consistently.
+
+Kind regards,
+Farhan Qureshi
+Recruitment",Scam,Easy,equipment_purchase,fraud_email_remote_office_vendor_invoice_02,Applicant-funded equipment purchase through a recruiter-selected vendor,Remote onboarding context,The applicant is directed to spend personal money with a recruiter-selected equipment vendor and rely on later reimbursement.
+SS0465,email,"Hamza,
+
+Now that your signed offer is accepted, upload a masked degree copy at https://careers.mosaic-finance.example/research-assistant/4; payroll documents will be collected through the employee portal after joining.
+
+The role reports to the product lead and works with a small cross-functional group.
+
+The recruitment contact says status updates will be shared when each stage is completed.
+
+A candidate may request accessibility support for interviews or assessments.
+
+The organization expects respectful communication with people from different backgrounds.
+
+Kind regards,
+Usman Tariq
+Recruitment",Safe,Hard,not_applicable,legitimate_email_document_check_after_acceptance_19,Post-acceptance document request; masked copy allowed,Document request,"The communication contains post-acceptance document request; masked copy allowed. Although it has a weak warning sign (document request), the context does not show deception or an improper request."
+SS0108,message,"Ahmed, quick recruitment update from UrbanNest Services: Reserve the interview by transferring EUR 60 to the coordinator; it will be returned with your first salary. Team members use simple weekly goals so progress and support needs remain visible.",Scam,Easy,upfront_payment,fraud_message_refundable_interview_registration_01,Upfront payment hidden inside recruitment or onboarding,Refund promise; messaging-platform request,"The recruitment process makes the applicant fund a fee, deposit, licence, or payroll step before legitimate employment begins."
+SS0325,message,"Good afternoon. I’m Zainab Ali, contacting you for Meadowline Clinics. Reserve the interview by transferring AED 180 to the coordinator; it will be returned with your first salary. Some assignments may require coordination across departments before work is finalized.",Scam,Easy,upfront_payment,fraud_message_refundable_interview_registration_01,Upfront payment hidden inside recruitment or onboarding,Refund promise; messaging-platform request,"The recruitment process makes the applicant fund a fee, deposit, licence, or payroll step before legitimate employment begins."
