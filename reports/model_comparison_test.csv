@@ -1,0 +1,31 @@
+model,accuracy,precision,recall,f1,roc_auc,pr_auc
+Tuned Logistic Regression,0.8888888888888888,1.0,0.7777777777777778,0.875,0.9753086419753086,0.9838132649586446
+Tuned Linear SVM,0.9,1.0,0.8,0.8888888888888888,0.9812345679012345,0.9859243950910493
+
+
+
+---
+
+## 2. Add the feature-importance chart to the report
+
+In your explainability section, add:
+
+```markdown
+### Global Feature Importance
+
+The final Logistic Regression coefficients provide a global view of which features push predictions toward Scam or Safe.
+
+Positive coefficients push predictions toward **Scam**, while negative coefficients push predictions toward **Safe**.
+
+![Global Feature Importance](figures/feature_importance.png)
+
+The strongest Scam-associated engineered signals included:
+
+- `selection_bypass_flag`
+- `suspicious_application_link_flag`
+- `payment_request_flag`
+- `paid_training_flag`
+- `lookalike_domain_flag`
+- `money_transfer_flag`
+
+Feature importance must be interpreted as model association rather than universal fraud evidence. Individual lexical terms may reflect correlations specific to the synthetic dataset.

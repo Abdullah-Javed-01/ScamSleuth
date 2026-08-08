@@ -11,10 +11,15 @@ from models.final_evaluation import (
     build_final_model,
 )
 
+from evaluation.explainability import (
+    get_global_feature_importance,
+)
+
 from evaluation.plots import (
     save_confusion_matrix,
     save_roc_curve,
     save_pr_curve,
+    save_feature_importance,
 )
 
 
@@ -66,6 +71,13 @@ def main():
     y_pred = (
         y_score >= DECISION_THRESHOLD
     ).astype(int)
+    
+    scam_features, safe_features = (
+        get_global_feature_importance(
+            model,
+            top_n=10,
+        )
+    )
 
     save_confusion_matrix(
         y_test,
@@ -84,6 +96,13 @@ def main():
         y_score,
         "reports/figures/precision_recall_curve.png",
     )
+    
+    save_feature_importance(
+        scam_features,
+        safe_features,
+        "reports/figures/feature_importance.png",
+        top_n=10,
+    )
 
     print(
         "Saved evaluation figures:"
@@ -99,6 +118,10 @@ def main():
 
     print(
         "reports/figures/precision_recall_curve.png"
+    )
+    
+    print(
+        "reports/figures/feature_importance.png"
     )
 
 

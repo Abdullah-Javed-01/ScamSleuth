@@ -1,6 +1,7 @@
 from pathlib import Path
 
 import matplotlib.pyplot as plt
+import pandas as pd
 
 from sklearn.metrics import (
     ConfusionMatrixDisplay,
@@ -101,6 +102,76 @@ def save_pr_curve(
     plt.savefig(
         output_path,
         dpi=200,
+    )
+
+    plt.close()
+
+
+def save_feature_importance(
+    scam_features,
+    safe_features,
+    output_path,
+    top_n=10,
+):
+    """
+    Save a signed Logistic Regression coefficient chart.
+
+    Positive coefficients push predictions toward Scam.
+    Negative coefficients push predictions toward Safe.
+    """
+
+    output_path = Path(output_path)
+
+    output_path.parent.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
+
+    combined = pd.concat(
+        [
+            safe_features.head(top_n),
+            scam_features.head(top_n),
+        ],
+        ignore_index=True,
+    )
+
+    combined = combined.sort_values(
+        "coefficient",
+        ascending=True,
+    )
+
+    plt.figure(
+        figsize=(10, 9)
+    )
+
+    plt.barh(
+        combined["feature"],
+        combined["coefficient"],
+    )
+
+    plt.axvline(
+        0,
+        linewidth=1,
+    )
+
+    plt.xlabel(
+        "Logistic Regression Coefficient"
+    )
+
+    plt.ylabel(
+        "Feature"
+    )
+
+    plt.title(
+        "ScamSleuth Global Feature Importance"
+    )
+
+    plt.tight_layout()
+
+    plt.savefig(
+        output_path,
+        dpi=200,
+        bbox_inches="tight",
     )
 
     plt.close()

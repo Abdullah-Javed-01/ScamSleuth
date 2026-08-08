@@ -120,16 +120,6 @@ def digit_ratio(text: str) -> float:
 
     return digit_count_value / len(text)
 
-
-def currency_symbol_count(text: str) -> int:
-    if not isinstance(text, str):
-        return 0
-
-    return sum(
-        text.count(symbol)
-        for symbol in CURRENCY_SYMBOLS
-    )
-
 def extract_structural_features(text: str) -> dict:
     """
     Extract basic structural features from one recruitment text.

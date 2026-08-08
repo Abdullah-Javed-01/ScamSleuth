@@ -39,6 +39,42 @@ The goal of ScamSleuth is to detect these patterns while also distinguishing the
 
 ---
 
+## Classification Definition
+
+### Scam
+
+A recruitment text is labeled **Scam** when it contains meaningful evidence of deceptive recruitment behavior intended to obtain money, credentials, sensitive information, identity documents, account access, illegal financial assistance, or another improper benefit.
+
+Examples include:
+
+- Applicant-paid recruitment or processing fees
+- Fake equipment-purchase schemes
+- Credential or OTP theft
+- Money-mule recruitment
+- Fake cheque overpayment
+- Mandatory paid training or certification schemes
+- Sensitive-data collection through suspicious application links
+- Fraudulent visa or processing payments
+- Recruitment impersonation combined with deceptive behavior
+
+### Safe
+
+A recruitment text is labeled **Safe** when the communication may be legitimate and does not contain sufficient evidence of deceptive or improper recruitment behavior.
+
+A Safe example may still contain weak warning signs such as:
+
+- Informal wording
+- Gmail or messaging-platform contact
+- Urgent hiring
+- International recruitment
+- Limited company web presence
+- Requests for identity documents during legitimate onboarding
+- Salary or currency references
+
+These weak signals alone are not treated as proof of fraud.
+
+---
+
 ## Dataset
 
 The project uses a synthetic recruitment-focused dataset:
@@ -78,7 +114,31 @@ label_reason
 
 Only raw `text` is used as direct model input.
 
-Metadata such as `scam_category`, `difficulty`, `strong_signals`, and `label_reason` is used only for auditing and evaluation.
+Metadata such as `scam_category`, `difficulty`, `strong_signals`, `weak_signals`, and `label_reason` is used only for auditing and evaluation.
+
+---
+
+## Class Balance Strategy
+
+The final dataset is exactly balanced:
+
+| Label | Count |
+|---|---:|
+| Safe | 300 |
+| Scam | 300 |
+
+The leakage-aware training split is also balanced:
+
+| Label | Training Examples |
+|---|---:|
+| Safe | 210 |
+| Scam | 210 |
+
+Because there was no meaningful class imbalance, techniques such as SMOTE, random oversampling, random undersampling, or class weighting were not applied.
+
+Adding resampling to an already balanced dataset would introduce unnecessary distortion.
+
+Class balance was instead preserved during splitting and monitored during evaluation.
 
 ---
 
@@ -107,7 +167,7 @@ The split is deterministic using:
 random seed = 42
 ```
 
-Split metadata and the source-dataset SHA-256 fingerprint are stored in:
+Split metadata and a platform-independent SHA-256 fingerprint of the normalized source dataset are stored in:
 
 ```text
 artifacts/split_metadata.json
@@ -115,20 +175,46 @@ artifacts/split_metadata.json
 
 ---
 
-## Feature Engineering
+## Preprocessing
 
-ScamSleuth evaluates multiple feature families.
+Text preprocessing is intentionally minimal so that potentially useful recruitment language is preserved.
 
-### 1. TF-IDF lexical features
-
-The lexical representation uses TF-IDF with minimal preprocessing:
+The pipeline performs:
 
 - Lowercasing
+- URL replacement with `URLTOKEN`
+- Email replacement with `EMAILTOKEN`
 - Whitespace normalization
-- URL replacement with a generic token
-- Email replacement with a generic token
 
-The final configuration uses:
+This avoids leaking specific domains or email addresses into the lexical model while preserving the fact that a URL or email was present.
+
+---
+
+# Feature Engineering
+
+ScamSleuth evaluates three feature families:
+
+1. TF-IDF lexical features
+2. Structural features
+3. Behavioral pattern features
+
+The preferred final classifier uses:
+
+```text
+TF-IDF + Behavioral Features
+```
+
+Detailed feature hypotheses and limitations are documented in:
+
+```text
+features/FEATURE_JUSTIFICATIONS.md
+```
+
+---
+
+## 1. TF-IDF Lexical Features
+
+The final selected TF-IDF configuration uses:
 
 ```text
 ngram_range = (1, 1)
@@ -137,9 +223,13 @@ max_df = 0.95
 sublinear_tf = True
 ```
 
+TF-IDF captures recurring lexical patterns that may not be represented by manually engineered rules.
+
+Lexical coefficients are statistical associations rather than universal scam indicators.
+
 ---
 
-### 2. Structural features
+## 2. Structural Features
 
 Eight structural features were implemented and evaluated:
 
@@ -152,11 +242,13 @@ Eight structural features were implemented and evaluated:
 - `digit_ratio`
 - `currency_reference_count`
 
-Ablation testing showed that this feature family reduced validation performance when combined with TF-IDF, so structural features were retained for experimentation and analysis but excluded from the preferred final classifier.
+Ablation testing showed that structural features reduced validation performance when combined with TF-IDF.
+
+They were therefore retained as a documented experiment but excluded from the preferred final classifier.
 
 ---
 
-### 3. Behavioral features
+## 3. Behavioral Features
 
 The final model uses 11 binary behavioral signals:
 
@@ -184,15 +276,34 @@ does not automatically mean Scam.
 
 A legitimate employer may request identification during formal onboarding.
 
-Detailed hypotheses and limitations are documented in:
+---
+
+## Feature Leakage Safeguards
+
+Only information derived from the raw `text` field is supplied to the classifier.
+
+The following metadata columns are **not** used as predictive features:
 
 ```text
-features/FEATURE_JUSTIFICATIONS.md
+label
+difficulty
+scam_category
+template_cluster
+strong_signals
+weak_signals
+label_reason
 ```
+
+These fields are retained only for:
+
+- Dataset auditing
+- Leakage-aware splitting
+- Evaluation
+- Error analysis
 
 ---
 
-## Baseline Model
+# Baseline Model
 
 The first lexical baseline used:
 
@@ -220,7 +331,7 @@ Confusion matrix:
 
 ---
 
-## Feature Ablation Study
+# Feature Ablation Study
 
 Different feature configurations were compared using the same training and validation splits.
 
@@ -237,7 +348,7 @@ Structural features were therefore excluded from the preferred final configurati
 
 ---
 
-## Model Selection & Hyperparameter Tuning
+# Model Selection & Hyperparameter Tuning
 
 Two model families were evaluated:
 
@@ -289,11 +400,43 @@ Grouped-CV PR-AUC = 0.9474
 | Tuned Logistic Regression | 0.6778 | 0.8077 | 0.4667 | 0.5915 | **0.7728** | **0.8149** |
 | Tuned Linear SVM | **0.6889** | **0.8148** | **0.4889** | **0.6111** | 0.7620 | 0.8108 |
 
-Logistic Regression was selected because of its strong ranking performance and native probability output, which supports deliberate threshold selection and prediction explanations.
+Logistic Regression was selected before final test inspection because its validation ranking performance was comparable to Linear SVM and it provides native probability output, enabling deliberate threshold selection and straightforward prediction explanations.
 
 ---
 
-## Decision Threshold Selection
+# Held-Out Model Family Comparison
+
+For final reporting, both frozen model families were evaluated on the same held-out test set using their standard decision boundaries:
+
+- Logistic Regression: probability `>= 0.50`
+- Linear SVM: decision function `>= 0`
+
+| Model | Accuracy | Precision | Recall | F1 | ROC-AUC | PR-AUC |
+|---|---:|---:|---:|---:|---:|---:|
+| Tuned Logistic Regression | 0.8889 | 1.0000 | 0.7778 | 0.8750 | 0.9753 | 0.9838 |
+| Tuned Linear SVM | **0.9000** | **1.0000** | **0.8000** | **0.8889** | **0.9812** | **0.9859** |
+
+Linear SVM achieved slightly stronger held-out test metrics under the default decision boundaries.
+
+However, this comparison was performed only after the model-selection process had already been frozen. It was **not** used to change the selected final model.
+
+Logistic Regression remained the preferred operational model because:
+
+- it was selected using validation evidence before test inspection;
+- its validation ranking performance was comparable to Linear SVM;
+- it provides native probability estimates;
+- probability output enabled deliberate threshold selection;
+- its coefficients support straightforward global and individual explanations.
+
+The comparison results are also saved in:
+
+```text
+reports/model_comparison_test.csv
+```
+
+---
+
+# Decision Threshold Selection
 
 The default probability threshold of `0.50` was not accepted automatically.
 
@@ -317,13 +460,13 @@ Threshold `0.16` achieved perfect recall but incorrectly flagged 39 of 45 Safe v
 
 # Final Test Results
 
-After all model, feature, hyperparameter, and threshold decisions were frozen, the final model was trained on:
+After all model, feature, hyperparameter, and threshold decisions were frozen, the final Logistic Regression model was trained on:
 
 ```text
 Train + Validation = 510 examples
 ```
 
-and evaluated once on the previously untouched:
+and evaluated on the previously untouched:
 
 ```text
 Test = 90 examples
@@ -355,7 +498,7 @@ This corresponds to:
 - False Negatives: **1**
 - True Positives: **44**
 
-The model correctly detected:
+The final operational model correctly detected:
 
 ```text
 44 / 45 Scam examples
@@ -367,19 +510,23 @@ Because the dataset is synthetic, these scores represent performance on the desi
 
 ---
 
-## Evaluation Figures
+# Evaluation Figures
 
-### Confusion Matrix
+## Confusion Matrix
 
 ![Confusion Matrix](reports/figures/confusion_matrix.png)
 
-### ROC Curve
+## ROC Curve
 
 ![ROC Curve](reports/figures/roc_curve.png)
 
-### Precision–Recall Curve
+## Precision–Recall Curve
 
 ![Precision Recall Curve](reports/figures/precision_recall_curve.png)
+
+## Global Feature Importance
+
+![Global Feature Importance](reports/figures/feature_importance.png)
 
 ---
 
@@ -387,7 +534,9 @@ Because the dataset is synthetic, these scores represent performance on the desi
 
 The final Logistic Regression model supports both global and individual explanations.
 
-The strongest global Scam-associated features included:
+Positive coefficients push predictions toward **Scam**, while negative coefficients push predictions toward **Safe**.
+
+Strong Scam-associated engineered signals included:
 
 - `selection_bypass_flag`
 - `suspicious_application_link_flag`
@@ -398,7 +547,7 @@ The strongest global Scam-associated features included:
 - `equipment_purchase_flag`
 - `identity_document_flag`
 
-Example:
+Example illustrative prediction:
 
 ```text
 Congratulations. You have been selected for the remote role.
@@ -419,7 +568,7 @@ The strongest contribution was:
 payment_request_flag
 ```
 
-Lexical coefficients are treated cautiously because individual terms may reflect synthetic dataset associations rather than universal fraud indicators.
+Lexical coefficients must be interpreted cautiously because individual words may reflect synthetic-dataset correlations rather than universal fraud indicators.
 
 ---
 
@@ -449,43 +598,7 @@ Confusion matrix:
 
 The lower adversarial score highlights important limitations not visible from benchmark test performance.
 
----
-
-## Known Limitations
-
-### Negation and context
-
-Pattern-based features may detect suspicious language even when the text explicitly rejects the behavior.
-
-For example:
-
-```text
-Candidates are not required to buy equipment.
-```
-
-contains many of the same lexical signals as:
-
-```text
-Candidates must buy equipment.
-```
-
-The current feature system does not fully understand semantic negation.
-
-### Behavioral phrasing variation
-
-Fraudulent behavior may be expressed in wording not covered by the frozen behavioral patterns.
-
-### Synthetic dataset
-
-The dataset was synthetically generated and cannot represent all real-world recruitment communication.
-
-### Small evaluation sets
-
-Validation and test splits contain only 90 examples each, so individual predictions can noticeably affect reported percentages.
-
-### Lexical artifacts
-
-TF-IDF may learn dataset-specific correlations from ordinary words such as dates, locations, or recruitment terminology.
+The stress test was used for robustness analysis only. The frozen model was not modified after these failures were inspected.
 
 ---
 
@@ -502,14 +615,88 @@ Five of the six False Positives were difficulty-rated **Hard** examples.
 
 The only False Negative was a visa-processing scam phrased as money reaching a personal account before an employment contract was issued.
 
+The adversarial stress test contained:
+
+```text
+4 False Positives
+1 False Negative
+```
+
 Detailed outputs are available in:
 
 ```text
 reports/test_error_analysis.csv
 reports/stress_test_error_analysis.csv
+reports/stress_test_predictions.csv
 ```
 
-The model was **not modified after inspecting test or adversarial failures**.
+Main failure modes included:
+
+1. Threshold-borderline ambiguity
+2. Negation and context limitations
+3. Behavioral pattern coverage gaps
+4. Dataset-specific lexical associations
+
+---
+
+# Known Limitations
+
+## Negation and context
+
+Pattern-based features may detect suspicious language even when the text explicitly rejects the behavior.
+
+For example:
+
+```text
+Candidates are not required to buy equipment.
+```
+
+contains many of the same lexical signals as:
+
+```text
+Candidates must buy equipment.
+```
+
+The current regex feature system does not fully understand semantic negation.
+
+## Behavioral phrasing variation
+
+Fraudulent behavior may be expressed in wording not covered by the frozen behavioral patterns.
+
+## Synthetic dataset
+
+The dataset was synthetically generated and cannot represent all real-world recruitment communication.
+
+## Small evaluation sets
+
+Validation and test splits contain only 90 examples each, so individual predictions can noticeably affect reported percentages.
+
+## Lexical artifacts
+
+TF-IDF may learn dataset-specific correlations from ordinary words such as dates, locations, or recruitment terminology.
+
+## Probability calibration
+
+The decision threshold was selected on validation probabilities from a model fitted on the training split, while the final model was later refit on Train + Validation. Re-fitting can shift probability calibration slightly.
+
+A stronger production workflow would select the threshold using out-of-fold development predictions before fitting the final model.
+
+---
+
+# Future Hardening
+
+Potential improvements for a production-oriented version include:
+
+- Semantic or transformer-based text representations
+- More robust negation and context handling
+- Character-level features for obfuscated scam wording
+- Domain reputation and URL intelligence
+- Larger real-world recruitment datasets
+- Out-of-fold threshold calibration
+- Probability calibration
+- Additional multilingual recruitment examples
+- Continuous adversarial evaluation
+- Human-review workflows for borderline predictions
 
 ---
 
@@ -540,6 +727,7 @@ ScamSleuth/
 │   ├── train_hybrid.py
 │   ├── compare_feature_sets.py
 │   ├── train_candidates.py
+│   ├── compare_final_candidates.py
 │   ├── select_threshold.py
 │   ├── final_evaluation.py
 │   ├── explain_model.py
@@ -560,13 +748,15 @@ ScamSleuth/
 │
 ├── reports/
 │   ├── results_report.md
+│   ├── model_comparison_test.csv
 │   ├── test_error_analysis.csv
 │   ├── stress_test_error_analysis.csv
 │   ├── stress_test_predictions.csv
 │   └── figures/
 │       ├── confusion_matrix.png
 │       ├── roc_curve.png
-│       └── precision_recall_curve.png
+│       ├── precision_recall_curve.png
+│       └── feature_importance.png
 │
 ├── artifacts/
 │   ├── split_metadata.json
@@ -616,7 +806,7 @@ pip install -r requirements.txt
 python split_data.py
 ```
 
-This creates the leakage-aware train, validation, and test splits.
+This creates deterministic leakage-aware train, validation, and test splits grouped by `template_cluster`.
 
 ---
 
@@ -711,13 +901,19 @@ Grouped model tuning:
 python -m models.train_candidates
 ```
 
+Frozen candidate-family test comparison:
+
+```bash
+python -m models.compare_final_candidates
+```
+
 Threshold analysis:
 
 ```bash
 python -m models.select_threshold
 ```
 
-Final frozen evaluation:
+Final frozen operational evaluation:
 
 ```bash
 python -m models.final_evaluation
@@ -782,7 +978,9 @@ Final decision threshold:
 
 ScamSleuth should be treated as a **screening aid**, not an automated accusation system.
 
-A `Scam` prediction indicates that the text resembles patterns learned from the project dataset. Users should independently verify:
+A `Scam` prediction indicates that the text resembles patterns learned from the project dataset.
+
+Users should independently verify:
 
 - Company identity
 - Official careers pages

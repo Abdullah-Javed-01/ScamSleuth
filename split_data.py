@@ -13,14 +13,25 @@ from config import (
 
 
 def calculate_file_hash(file_path):
-    """Calculate SHA-256 hash of the source dataset."""
-    sha256 = hashlib.sha256()
+    """
+    Calculate a platform-independent SHA-256 hash.
 
-    with open(file_path, "rb") as file:
-        for chunk in iter(lambda: file.read(8192), b""):
-            sha256.update(chunk)
+    Text is read using universal newline handling so
+    Windows CRLF and Unix LF line endings produce the
+    same fingerprint.
+    """
 
-    return sha256.hexdigest()
+    with open(
+        file_path,
+        "r",
+        encoding="utf-8",
+        newline=None,
+    ) as file:
+        normalized_text = file.read()
+
+    return hashlib.sha256(
+        normalized_text.encode("utf-8")
+    ).hexdigest()
 
 
 def validate_clusters(df):
