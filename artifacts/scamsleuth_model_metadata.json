@@ -1,0 +1,22 @@
+{
+    "model": "Logistic Regression",
+    "feature_set": [
+        "TF-IDF lexical features",
+        "11 behavioral features"
+    ],
+    "training_rows": 510,
+    "decision_threshold": 0.31,
+    "classifier_C": 4.0,
+    "tfidf_ngram_range": [
+        1,
+        1
+    ],
+    "tfidf_min_df": 2,
+    "tfidf_max_df": 0.95,
+    "tfidf_sublinear_tf": true,
+    "labels": {
+        "0": "Safe",
+        "1": "Scam"
+    },
+    "test_data_used_for_training": false
+}

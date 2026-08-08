@@ -14,5 +14,18 @@ RAW_DATA_PATH = (
 SPLIT_DIR = ROOT_DIR / "data" / "splits"
 ARTIFACT_DIR = ROOT_DIR / "artifacts"
 
+TRAIN_DATA_PATH = SPLIT_DIR / "train.csv"
+VALIDATION_DATA_PATH = SPLIT_DIR / "validation.csv"
+TEST_DATA_PATH = SPLIT_DIR / "test.csv"
+
+FINAL_MODEL_PATH = (
+    ARTIFACT_DIR / "scamsleuth_model.joblib"
+)
+
+FINAL_MODEL_METADATA_PATH = (
+    ARTIFACT_DIR / "scamsleuth_model_metadata.json"
+)
+
 # Reproducibility
 RANDOM_SEED = 42
+DECISION_THRESHOLD = 0.31

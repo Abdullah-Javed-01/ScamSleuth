@@ -1,0 +1,6 @@
+id,label,scenario,text,scam_probability,predicted_label,correct,error_type
+ADV002,Safe,Post-offer identity document,Your signed employment agreement has been received. Please bring your original CNIC for verification on your first working day. Do not send identity documents through WhatsApp or email.,0.3249,Scam,False,False Positive
+ADV003,Safe,Legitimate training,This paid internship includes two weeks of internal training. There is no training fee and candidates are not required to purchase any course or certification.,0.9981,Scam,False,False Positive
+ADV006,Safe,Company equipment,"Remote employees receive a company-owned laptop after joining. Candidates are not asked to buy equipment, send a deposit, or purchase devices from a selected vendor.",0.9967,Scam,False,False Positive
+ADV007,Safe,Finance role with money language,The Accounts Assistant reconciles customer payments inside the company accounting system. Employees must never receive company funds into a personal bank account or forward client money.,0.9676,Scam,False,False Positive
+ADV010,Scam,Credential theft,"To connect your mailbox with the employee portal, reply with your email password and the one-time login code that appears on your phone.",0.2135,Safe,False,False Negative

@@ -1,0 +1,103 @@
+id,text_type,text,label,difficulty,scam_category,template_cluster,strong_signals,weak_signals,label_reason,scam_probability,predicted_label,error_type
+SS0258,job_posting,"Accounts Assistant
+mostly remote · Karachi
+
+About this position
+Applications are open for a Accounts Assistant connected to the Karachi team. The vacancy closes this week because a new branch is opening. Candidates can attend a walk-in interview and review commission terms onsite.
+
+Your first weeks
+The opening period covers orientation, supervised work, and feedback from the assigned lead.
+
+Essentials
+- Clear communication
+- Reliable attendance
+- Relevant study or practical examples
+
+Terms
+Expected compensation is PKR 90,000–120,000 per month. The arrangement is mostly remote around Karachi, with a preferred start near 24 August.
+
+Additional context
+- The role is intended for someone comfortable asking questions when instructions are incomplete.
+- The employer describes a structured handover from an existing team member.
+- Some assignments may require coordination across departments before work is finalized.
+- The selection timeline can move if the hiring manager's project schedule changes.
+- Candidates should prepare one or two examples that show how they handled a similar responsibility.
+- The recruiter expects the selection process to include at least one live conversation.
+- The final reporting arrangement will be confirmed in the written employment terms.
+- Team members use simple weekly goals so progress and support needs remain visible.
+- Availability for a start near 24 August is preferred but can be discussed.
+- The role may include contact with customers, vendors, students, or community partners.
+- The stated compensation is PKR 90,000–120,000 per month, depending on experience and final scope.
+- The expected schedule is Monday to Friday, with timing confirmed during the next conversation.
+- The team is reviewing applicants from Karachi and several nearby cities.",Safe,Hard,not_applicable,legitimate_job_posting_same_week_sales_walkin_17,Plausible business urgency; terms reviewed before offer,Urgent hiring; commission role,"The communication contains plausible business urgency; terms reviewed before offer. Although it has a weak warning sign (urgent hiring; commission role), the context does not show deception or an improper request.",0.3596,Scam,False Positive
+SS0100,job_posting,"Now hiring: Project Coordinator
+
+Location: Chicago
+Arrangement: onsite
+
+We are seeking a Project Coordinator to join a small delivery team. The vacancy closes this week because a new branch is opening. Candidates can attend a walk-in interview and review commission terms onsite.
+
+Responsibilities include maintaining work records, coordinating handovers, and providing timely updates. Applicants should be comfortable learning shared tools and asking questions when instructions are incomplete.
+
+Terms
+Expected compensation is USD 900–1,200 per month. The arrangement is onsite around Chicago, with a preferred start near 27 August.
+
+Additional context
+
+A candidate may request accessibility support for interviews or assessments.
+
+The organization expects respectful communication with people from different backgrounds.
+
+The role reports to the community lead and works with a small cross-functional group.
+
+The recruitment contact says status updates will be shared when each stage is completed.
+
+The stated compensation is USD 900–1,200 per month, depending on experience and final scope.
+
+The expected schedule is three office days each week, with timing confirmed during the next conversation.
+
+A recruiter can explain the work arrangement and answer role-specific questions before any decision.",Safe,Hard,not_applicable,legitimate_job_posting_same_week_sales_walkin_17,Plausible business urgency; terms reviewed before offer,Urgent hiring; commission role,"The communication contains plausible business urgency; terms reviewed before offer. Although it has a weak warning sign (urgent hiring; commission role), the context does not show deception or an improper request.",0.3858,Scam,False Positive
+SS0188,message,"Hi Maryam, Zainab Ali from Juniper Learning. We are discussing the Community Manager opening, a flexible hybrid position connected to Manchester. Hi Maryam, my cousin shared your CV. We run a small family business in Manchester; can you visit tomorrow to discuss the assistant role? Reply here if you want the next-step details. The current compensation indication is GBP 24,000–29,000 annually, subject to the written terms and final scope. Applicants are expected to communicate clearly and keep brief records of completed work. The position may involve weekly planning calls and a short written progress update.",Safe,Hard,not_applicable,legitimate_message_family_business_informal_hiring_15,Referral context; in-person discussion before hiring,Informal wording; family business,"The communication contains referral context; in-person discussion before hiring. Although it has a weak warning sign (informal wording; family business), the context does not show deception or an improper request.",0.3257,Scam,False Positive
+SS0483,email,"Re: Digital Marketing Coordinator opportunity in Chicago
+
+Hi Zoya,
+
+Our London team would like to interview you remotely. The advertised salary is USD 900–1,200 per month, and relocation is not required.
+
+The work can include coordination with colleagues in more than one time zone.
+
+Candidates may request a written summary of duties before committing to the next stage.
+
+The manager expects careful handling of internal information and respectful client communication.
+
+Thank you,
+Imran Baig",Safe,Medium,not_applicable,legitimate_email_international_interview_coordination_13,Realistic international process; compensation disclosed,International employer,"The communication contains realistic international process; compensation disclosed. Although it has a weak warning sign (international employer), the context does not show deception or an improper request.",0.4096,Scam,False Positive
+SS0271,message,"Hello Zain — this is Zainab Ali with KiteWorks Digital. We are discussing the UI/UX Designer opening, a flexible hybrid position connected to Dublin. The project is funded for four months and our main website is being rebuilt. The grant reference and office address are posted at https://careers.kiteworks-digital.example/ui-ux-designer/2. Let me know whether this timing works for you.",Safe,Hard,not_applicable,legitimate_message_local_ngo_field_role_20,Willingness to provide verification; no commitment requested,Limited web presence; temporary role,"The communication contains willingness to provide verification; no commitment requested. Although it has a weak warning sign (limited web presence; temporary role), the context does not show deception or an improper request.",0.3157,Scam,False Positive
+SS0134,message,"Hassan, quick recruitment update from PixelMint Agency: We are discussing the Customer Support Associate opening, an onsite position connected to Lahore. Hi Hassan, my cousin shared your CV. We run a small family business in Lahore; can you visit tomorrow to discuss the assistant role? Please confirm whether you would like to continue. The current compensation indication is PKR 90,000–120,000 per month, subject to the written terms and final scope. Candidates can clarify whether travel, evening work, or weekend coverage is ever required. Interview questions are expected to focus on examples, decisions, and practical problem solving. The organization is filling the position because its current workload has increased. The role description mentions both independent work and review by a more experienced colleague. Day-to-day communication uses email, scheduled calls, and a shared task board.",Safe,Hard,not_applicable,legitimate_message_family_business_informal_hiring_15,Referral context; in-person discussion before hiring,Informal wording; family business,"The communication contains referral context; in-person discussion before hiring. Although it has a weak warning sign (informal wording; family business), the context does not show deception or an improper request.",0.3279,Scam,False Positive
+SS0272,email,"Subject: Graphic Designer — recruitment update
+
+Dear Daniyal,
+
+Thank you for your interest in the Graphic Designer opportunity associated with Indus Analytics. The position is described as onsite and based around Faisalabad. The employer's agent will start visa processing once EUR 60 reaches a personal account; the employment contract follows afterward.
+
+The current compensation indication is PKR 65,000–85,000 per month. Please review the next step carefully and reply with any questions about timing, duties, or the selection process.
+
+The hiring contact expects to complete this stage near 20 August. Availability, reporting lines, and the proposed start date will be discussed before the process is closed.
+
+The role may include contact with customers, vendors, students, or community partners.
+
+Availability for a start near 20 August is preferred but can be discussed.
+
+The organization describes the opening as onsite and based around Faisalabad.
+
+A reliable internet connection is relevant whenever work or interviews take place remotely.
+
+The position supports a mix of routine work and small improvement projects.
+
+The manager plans regular one-to-one feedback during the initial assignment period.
+
+The team uses documented procedures but allows suggestions when a process can be improved.
+
+Regards,
+Hina Aslam
+Talent Team",Scam,Medium,visa_or_processing_fee,fraud_email_embassy_processing_transfer_12,Visa or processing payment requested before a valid contract,Overseas role,The applicant must send visa or processing money before seeing a valid employment contract or employer-controlled process.,0.1543,Safe,False Negative
